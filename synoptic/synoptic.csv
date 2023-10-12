@@ -1,0 +1,19 @@
+ftype,cardinality,standard_name,synoptic_name,unit_conversion_coefficient
+MetData,multi,Tair,T [C],1
+MetData,multi,RH,RH [%],1
+MetData,single,WS_Avg,FF [m/s],1
+MetData,single,WDrs_Avg,DD [deg],1
+MinMax,single,WG_Max,FFGUST [m/s],1
+MetData,single,P,P [hPa],10
+MetData,single,SWin_Avg,SOLRAD [W/m2],1
+MetData,single,SWout_Avg,SOLOUT [W/m2],1
+MetData,single,LWin_Avg,LWRAD [W/m2],1
+MetData,single,LWout_Avg,LWOUT [W/m2],1
+MetData,single,SWnet_Avg,NETSWRAD [W/m2],1
+MetData,single,LWnet_Avg,NETLWRAD [W/m2],1
+MetData,single,Rnet_Avg,NETRAD [W/m2],1
+MetData,single,PAR_Avg,PAR [umol/m2s],1
+MetData,single,RF_Tot,PCP5M [mm],1
+SysInfo,single,BattVolt,BATV [volt],1
+MetData,multi,Tsoil,SOILT [C],1
+MetData,multi,SM,SOILMP [%],1
