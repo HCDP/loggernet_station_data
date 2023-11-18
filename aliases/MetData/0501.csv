@@ -12,8 +12,8 @@ Albedo_Avg,Albedo_Avg
 Tsrf_Avg,Tsrf_Avg
 Tsky_Avg,Tsky_Avg
 Tair_1_Avg,Tair_1_Avg
-Tair_2_Avg,RH_1_Avg
-RH_1_Avg,Tair_2_Avg
+Tair_2_Avg,Tair_2_Avg
+RH_1_Avg,RH_1_Avg
 RH_2_Avg,RH_2_Avg
 VP_1_Avg,VP_1_Avg
 VP_2_Avg,VP_2_Avg
