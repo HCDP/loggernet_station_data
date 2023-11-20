@@ -25,7 +25,7 @@ WindDir_uv,WDuv_1_Avg
 Tsoil_Avg,Tsoil_1_Avg
 SoilHeatFlux_Avg(1),SHF_1_Avg
 SoilHeatFlux_Avg(2),SHF_2_Avg
-F,SHFdg_1_Avg
+F,SHFbg_1_Avg
 M,SHS_1_Avg
 G,SHFsrf_1_Avg
 SoilMoisture_Avg(1),SM_1_Avg
