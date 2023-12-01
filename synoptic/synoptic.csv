@@ -13,7 +13,7 @@ MetData,single,SWnet_Avg,NETSWRAD [W/m2],1
 MetData,single,LWnet_Avg,NETLWRAD [W/m2],1
 MetData,single,Rnet_Avg,NETRAD [W/m2],1
 MetData,single,PAR_Avg,PAR [umol/m2s],1
-MetData,multi,RF,PCP5M [mm],1
+MetData,single,RF_Tot,PCP5M [mm],1
 SysInfo,single,BattVolt,BATV [volt],1
 MetData,multi,Tsoil,SOILT [C],1
 MetData,multi,SM,SOILMP [%],1
