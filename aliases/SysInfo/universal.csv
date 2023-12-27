@@ -1,6 +1,6 @@
 alias_name,standard_name
 BattVolt,BattVolt
-BattVolt_Avg,BattVolt_Avg
+BattVolt_Avg,BattVolt
 BattVolt_Min,BattVolt_Min
 BattVolt_Max,BattVolt_Max
 LithiumBattery,LGR_LiBattV
