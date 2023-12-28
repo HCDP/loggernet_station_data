@@ -1,4 +1,4 @@
-ftype,standard_names,synoptic_name,unit_conversion_coefficient,metadata_col,exclude
+ftype,standard_name,synoptic_name,unit_conversion_coefficient,metadata_col,exclude
 MetData,Tair_#_Avg,T [C],1,t_rh,
 MetData,RH_#_Avg,RH [%],1,t_rh,
 MetData,WS_#_Avg,FF [m/s],1,null,
