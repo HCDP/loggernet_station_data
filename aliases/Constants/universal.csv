@@ -1,0 +1,15 @@
+alias_name,standard_name
+SCAN_INTERVAL,SCAN_INTERVAL
+OUTPUT_INTERVAL,OUTPUT_INTERVAL
+NUM_REC_LGR,NUM_REC_LGR
+NUM_REC_CRD,NUM_REC_CRD
+SHF_1_sens,SHF_1_sens
+SHF_2_sens,SHF_2_sens
+dnWelling_SW_sens,SWin_sens
+SWup_sens,SWin_sens
+upWelling_SW_sens,SWout_sens
+SWdn_sens,SWout_sens
+dnWelling_LW_sens,LWin_sens
+LWup_sens,LWin_sens
+upWelling_LW_sens,LWout_sens
+LWdn_sens,LWout_sens
