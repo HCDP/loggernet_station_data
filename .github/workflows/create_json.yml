@@ -30,6 +30,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Push changes
         run: |
+          git config --global user.email "mcleanj@gmail.com"
+          git config --global user.name "jardmclan"
           git add -A
           git commit -m "generate json files"
           git push origin
