@@ -94,7 +94,7 @@ def handle_syn_file(in_f, out_f):
 
 def handle_alias_files(in_dir, out_f):
     aliases = {}
-    for root, subdirs, files in walk(args.data_dir):
+    for root, subdirs, files in walk(in_dir):
             for file in files:
                 file = join(root, file)
                 path = Path(file)
