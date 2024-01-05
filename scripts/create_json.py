@@ -125,7 +125,7 @@ def main():
 
     handle_metadata_file(metadata_file_in, metadata_file_out)
     handle_syn_file(syn_file_in, syn_file_out)
-    handle_alias_files(alias_dir_in, alias_file_out)
+    handle_alias_files(alias_dir, alias_file_out)
 
 if __name__ == "__main__":
     main()
