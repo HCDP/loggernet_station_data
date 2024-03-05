@@ -110,7 +110,9 @@
             "synoptic_name": "PCP5M [mm]",
             "unit_conversion_coefficient": 1.0,
             "metadata_col": "rf",
-            "exclude": []
+            "exclude": [
+                "0145"
+            ]
         },
         "Tsoil_#": {
             "ftype": "MetData",
