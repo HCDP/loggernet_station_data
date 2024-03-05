@@ -104,7 +104,7 @@ Fault_Pressure,Number of falut pressure samples
 Fault_Compass,Number of falut compass
 Fault_NAN,Number of NAN
 Fault_Undefined,Number of undefined falut
-GoodSample_Wind,Number of good wind samples
+GoodSample_Wind,Percentage of good wind samples
 RFmin_1,Minutely rainfall
 RFmin_2,"Minutely rainfall, sensor 2"
 RGtipmin_1,Minutely rain gauge tips
