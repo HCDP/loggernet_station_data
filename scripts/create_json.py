@@ -5,6 +5,23 @@ from os import listdir, walk
 import argparse
 from pathlib import Path
 
+def get_display(file):
+    display = {}
+    try:
+        with open(file) as f:
+            reader = csv.reader(f)
+            header = None
+            for row in reader:
+                if header is None:
+                    header = row
+                #map standard names to display names
+                else:
+                    display[row[0]] = row[1]
+    #could not read file return empty
+    except:
+        pass
+    return display
+
 def get_metadata(file):
     metadata = {}
     try:
@@ -80,6 +97,12 @@ def get_aliases(file):
     return alias_data
 
 
+def handle_display_file(in_f, out_f):
+    display = get_display(in_f)
+    with open(out_f, "w") as f:
+        json.dump(display, f, indent = 4)
+
+
 def handle_metadata_file(in_f, out_f):
     metadata = get_metadata(in_f)
     with open(out_f, "w") as f:
@@ -123,9 +146,13 @@ def main():
     metadata_file_in = join(args.data_dir, "metadata/metadata.csv")
     metadata_file_out = join(args.out_dir, "metadata.json")
 
+    display_file_in = join(args.data_dir, "display/display.csv")
+    display_file_out = join(args.out_dir, "display.json")
+
     handle_metadata_file(metadata_file_in, metadata_file_out)
     handle_syn_file(syn_file_in, syn_file_out)
     handle_alias_files(alias_dir, alias_file_out)
+    handle_display_file(display_file_in, display_file_out)
 
 if __name__ == "__main__":
     main()
