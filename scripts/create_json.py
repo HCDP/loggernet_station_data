@@ -23,6 +23,7 @@ def get_display(file):
     return display
 
 def get_metadata(file):
+    print("t")
     metadata = {}
     try:
         with open(file) as f:
