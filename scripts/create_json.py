@@ -38,7 +38,8 @@ def get_metadata(file):
                     for i in range(len(row)):
                         key = header[i]
                         value = row[i]
-                        if key != "id" and key != "lat" and key != "lng" and key != "elevation":
+                        batch_cols = ["t_rh", "sm", "tsoil", "rf"]
+                        if key in batch_cols:
                             if value == "nan":
                                 value = []
                             else:
