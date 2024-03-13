@@ -1,7 +1,7 @@
 import csv
 import json
 from os.path import join
-from os import listdir, walk
+from os import walk
 import argparse
 from pathlib import Path
 
@@ -23,7 +23,6 @@ def get_display(file):
     return display
 
 def get_metadata(file):
-    print("t")
     metadata = {}
     try:
         with open(file) as f:
