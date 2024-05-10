@@ -5,6 +5,32 @@ from os import walk
 import argparse
 from pathlib import Path
 
+def get_versions(file):
+    versions = {}
+    try:
+        with open(file) as f:
+            reader = csv.reader(f)
+            header = None
+            for row in reader:
+                if header is None:
+                    header = row
+                #map alias translations to versions
+                else:
+                    version_list = row[0].split(";")
+                    for version in version_list:
+                        #get version map
+                        version_map = versions.get(version)
+                        #if version has not been seen yet initialize to empty map
+                        if version_map is None:
+                            version_map = {}
+                            versions[version] = version_map
+                        #add alias translation to version map
+                        version_map[row[1]] = row[2]
+    #could not read file return empty
+    except:
+        pass
+    return versions
+
 def get_display(file):
     display = {}
     try:
@@ -97,6 +123,10 @@ def get_aliases(file):
         pass
     return alias_data
 
+def handle_versions_file(in_f, out_f):
+    versions = get_versions(in_f)
+    with open(out_f, "w") as f:
+        json.dump(versions, f, indent = 4)
 
 def handle_display_file(in_f, out_f):
     display = get_display(in_f)
@@ -150,10 +180,14 @@ def main():
     display_file_in = join(args.data_dir, "display/display.csv")
     display_file_out = join(args.out_dir, "display.json")
 
+    versions_file_in = join(args.data_dir, "versions/versions.csv")
+    versions_file_out = join(args.out_dir, "versions.json")
+
     handle_metadata_file(metadata_file_in, metadata_file_out)
     handle_syn_file(syn_file_in, syn_file_out)
     handle_alias_files(alias_dir, alias_file_out)
     handle_display_file(display_file_in, display_file_out)
+    handle_versions_file(versions_file_in, versions_file_out)
 
 if __name__ == "__main__":
     main()
