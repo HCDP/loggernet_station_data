@@ -67,7 +67,7 @@ def get_metadata(file):
                     id = row[0]
                     location = location_prefix_map[id[0]]
                     id_metadata = {}
-                    metadata[id] = id_metadata
+                    metadata[location][id] = id_metadata
                     for i in range(len(row)):
                         key = header[i]
                         value = row[i]
