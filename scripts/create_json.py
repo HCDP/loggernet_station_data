@@ -49,7 +49,13 @@ def get_display(file):
     return display
 
 def get_metadata(file):
-    metadata = {}
+    location_prefix_map = {
+        "0": "hawaii",
+        "1": "american_samoa"
+    }
+    metadata = {
+        location: {} for location in location_prefix_map.values()
+    }
     try:
         with open(file) as f:
             reader = csv.reader(f)
@@ -59,6 +65,7 @@ def get_metadata(file):
                     header = row
                 else:
                     id = row[0]
+                    location = location_prefix_map[id[0]]
                     id_metadata = {}
                     metadata[id] = id_metadata
                     for i in range(len(row)):
