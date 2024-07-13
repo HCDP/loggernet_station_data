@@ -72,13 +72,13 @@
         "0288": {
             "Tsoil_1_Avg": "Tsoil_1_Avg",
             "Tsoil_2_Avg": "Tsoil_2_Avg",
-            "SHF_1_Avg": "SoilHeatFlux_1_Avg",
-            "SHF_2_Avg": "SoilHeatFlux_2_Avg",
-            "SHF_3_Avg": "SoilHeatFlux_3_Avg",
-            "SHF_4_Avg": "SoilHeatFlux_4_Avg",
-            "SM_1_Avg": "SoilMoisture_1_Avg",
-            "SM_2_Avg": "SoilMoisture_2_Avg",
-            "SM_3_Avg": "SoilMoisture_3_Avg"
+            "SoilHeatFlux_1_Avg": "SHF_1_Avg",
+            "SoilHeatFlux_2_Avg": "SHF_2_Avg",
+            "SoilHeatFlux_3_Avg": "SHF_3_Avg",
+            "SoilHeatFlux_4_Avg": "SHF_4_Avg",
+            "SoilMoisture_1_Avg": "SM_1_Avg",
+            "SoilMoisture_2_Avg": "SM_2_Avg",
+            "SoilMoisture_3_Avg": "SM_3_Avg"
         },
         "universal": {}
     },
