@@ -103,11 +103,7 @@ def get_synoptic(file):
                         row_data["exclude"] = []
                     else:
                         row_data["exclude"] = row_data["exclude"].split(";")
-                    ftype_data = synoptic_data.get(row_data["ftype"])
-                    if ftype_data is None:
-                        ftype_data = {}
-                        synoptic_data[row_data["ftype"]] = ftype_data
-                    ftype_data[row_data["standard_name"]] = row_data
+                    synoptic_data[row_data["standard_name"]] = row_data
     #file does not exist return empty
     except:
         pass
