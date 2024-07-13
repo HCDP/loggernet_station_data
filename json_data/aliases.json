@@ -79,7 +79,8 @@
             "SM_1_Avg": "SoilMoisture_1_Avg",
             "SM_2_Avg": "SoilMoisture_2_Avg",
             "SM_3_Avg": "SoilMoisture_3_Avg"
-        }
+        },
+        "universal": {}
     },
     "Constants": {
         "universal": {
