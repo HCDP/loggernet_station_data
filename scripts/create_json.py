@@ -11,21 +11,32 @@ def get_versions(file):
         with open(file) as f:
             reader = csv.reader(f)
             header = None
+            standard_name_index, alias_index, interval_seconds_index, program_index = 0, 1, 2, 3
             for row in reader:
                 if header is None:
                     header = row
                 #map alias translations to versions
                 else:
-                    version_list = row[0].split(";")
+                    version_list = row[program_index].split(";")
                     for version in version_list:
+                        version = f"CPU:{version}"
                         #get version map
                         version_map = versions.get(version)
                         #if version has not been seen yet initialize to empty map
                         if version_map is None:
                             version_map = {}
                             versions[version] = version_map
+                        interval_seconds = row[interval_seconds_index]
+                        try:
+                            interval_seconds = float(interval_seconds)
+                        except ValueError:
+                            interval_seconds = None
+                            
                         #add alias translation to version map
-                        version_map[row[1]] = row[2]
+                        version_map[row[alias_index]] = {
+                            "standard_name": row[standard_name_index],
+                            "interval_seconds": interval_seconds
+                        }
     #could not read file return empty
     except:
         pass
