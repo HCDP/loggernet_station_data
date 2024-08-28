@@ -355,6 +355,26 @@
             "SoilMoisture_T_Avg(2)": "SMadjT_2_Avg",
             "Rainfall_Tot": "RF_1_Tot"
         },
+        "x0283": {
+            "SWup_Avg": "SWin_1_Avg",
+            "SWdn_Avg": "SWout_1_Avg",
+            "LWup_Avg": "LWin_1_Avg",
+            "LWdn_Avg": "LWout_1_Avg",
+            "Trnet_Avg": "Trnet_1_Avg",
+            "PAR_Avg": "PAR_1_Avg",
+            "Tair_1_Avg": "Tair_1_Avg",
+            "RH_1_Avg": "RH_1_Avg",
+            "Tair_2_Avg": "Tair_2_Avg",
+            "RH_2_Avg": "RH_2_Avg",
+            "BF3_PAR_Tot_Avg": "PAR_2_Avg",
+            "BF3_PAR_Diff_Avg": "PARdiff_1_Avg",
+            "WindSpeed": "WS_1_Avg",
+            "WindSpeed_rs": "WSrs_1_Avg",
+            "WindDir": "WDrs_1_Avg",
+            "WindDir_sd": "WD_1_StdCS",
+            "WindDir_uv": "WDuv_1_Avg",
+            "Rainfall_Tot": "RF_1_Tot"
+        },
         "x0151": {
             "SWin_Avg": "SWin_1_Avg",
             "SWout_Avg": "SWout_1_Avg",
@@ -695,26 +715,6 @@
             "SoilMoisture_Avg(2)": "SM_2_Avg",
             "SoilMoisture_T_Avg(1)": "SMadjT_1_Avg",
             "SoilMoisture_T_Avg(2)": "SMadjT_2_Avg",
-            "Rainfall_Tot": "RF_1_Tot"
-        },
-        "0283": {
-            "SWup_Avg": "SWin_1_Avg",
-            "SWdn_Avg": "SWout_1_Avg",
-            "LWup_Avg": "LWin_1_Avg",
-            "LWdn_Avg": "LWout_1_Avg",
-            "Trnet_Avg": "Trnet_1_Avg",
-            "PAR_Avg": "PAR_1_Avg",
-            "Tair_1_Avg": "Tair_1_Avg",
-            "RH_1_Avg": "RH_1_Avg",
-            "Tair_2_Avg": "Tair_2_Avg",
-            "RH_2_Avg": "RH_2_Avg",
-            "BF3_PAR_Tot_Avg": "PAR_2_Avg",
-            "BF3_PAR_Diff_Avg": "PARdiff_1_Avg",
-            "WindSpeed": "WS_1_Avg",
-            "WindSpeed_rs": "WSrs_1_Avg",
-            "WindDir": "WDrs_1_Avg",
-            "WindDir_sd": "WD_1_StdCS",
-            "WindDir_uv": "WDuv_1_Avg",
             "Rainfall_Tot": "RF_1_Tot"
         },
         "0288": {
