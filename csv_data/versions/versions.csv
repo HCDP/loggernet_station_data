@@ -491,7 +491,7 @@ standard_name,alias,interval_seconds,program
 "RnetUC_1_Avg","Rnet_Avg",300,"IPIF_v11.cr3;IPIF_v10.cr3;Spencer_v05.cr3"
 "Rnet_1_Avg","Rnet_corr_Avg",300,"IPIF_v11.cr3;IPIF_v10.cr3;Spencer_v05.cr3"
 "PAR_1_Avg","PAR_Avg",300,"IPIF_v11.cr3;IPIF_v10.cr3;Spencer_v05.cr3;Laupahoehoe_v24.CR3;Laupahoehoe_v23.CR3;Palamanui_v11.CR3;Palamanui_v10.CR3;Mamalahoa_v09.CR3"
-"SWin_Tot86400s","SWup_Tot_Tot",86400,"IPIF_v11.cr3;IPIF_v10.cr3;IPIF_v09.cr3;Spencer_v05.cr3;Spencer_v04.cr3;Spencer_v03.cr3;Laupahoehoe_v24.CR3;Laupahoehoe_v23.CR3;Laupahoehoe_v22.CR3;Palamanui_v11.CR3;Palamanui_v10.CR3;Palamanui_v09.CR3;Mamalahoa_v09.CR3;Mamalahoa_v08.CR3;Puuwaawaa_v07.CR3;Puuwaawaa_v06.CR3;Puuwaawaa_v05.CR3"
+"SWin_1_Tot86400s","SWup_Tot_Tot",86400,"IPIF_v11.cr3;IPIF_v10.cr3;IPIF_v09.cr3;Spencer_v05.cr3;Spencer_v04.cr3;Spencer_v03.cr3;Laupahoehoe_v24.CR3;Laupahoehoe_v23.CR3;Laupahoehoe_v22.CR3;Palamanui_v11.CR3;Palamanui_v10.CR3;Palamanui_v09.CR3;Mamalahoa_v09.CR3;Mamalahoa_v08.CR3;Puuwaawaa_v07.CR3;Puuwaawaa_v06.CR3;Puuwaawaa_v05.CR3"
 "PAR_1_Tot86400s","PAR_Tot_Tot",86400,"IPIF_v11.cr3;IPIF_v10.cr3;IPIF_v09.cr3;Spencer_v05.cr3;Spencer_v04.cr3;Spencer_v03.cr3;Laupahoehoe_v24.CR3;Laupahoehoe_v23.CR3;Laupahoehoe_v22.CR3;Palamanui_v11.CR3;Palamanui_v10.CR3;Palamanui_v09.CR3;Mamalahoa_v09.CR3;Mamalahoa_v08.CR3"
 "PAR_1_sens","PAR_sens",NA,"IPIF_v11.cr3;IPIF_v10.cr3;IPIF_v09.cr3;Spencer_v05.cr3;Spencer_v04.cr3;Spencer_v03.cr3;Laupahoehoe_v24.CR3;Laupahoehoe_v23.CR3;Laupahoehoe_v22.CR3;Palamanui_v11.CR3;Palamanui_v10.CR3;Palamanui_v09.CR3;Mamalahoa_v09.CR3;Mamalahoa_v08.CR3"
 "Rnet_1_sens","Rnet_sens",NA,"IPIF_v11.cr3;IPIF_v10.cr3;IPIF_v09.cr3"
