@@ -97,8 +97,8 @@
         "metadata_col": null,
         "exclude": []
     },
-    "RF_#_Tot": {
-        "standard_name": "RF_#_Tot",
+    "RF_#_Tot300s": {
+        "standard_name": "RF_#_Tot300s",
         "synoptic_name": "PCP5M [mm]",
         "unit_conversion_coefficient": 1.0,
         "metadata_col": "rf",
