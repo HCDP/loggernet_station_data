@@ -1,6 +1,6 @@
 standard_name,synoptic_name,unit_conversion_coefficient,metadata_col,exclude
-Tair_#_Avg,T [C],1,t_rh,0283.1
-RH_#_Avg,RH [%],1,t_rh,0283.1
+Tair_#_Avg,T [C],1,t_rh,
+RH_#_Avg,RH [%],1,t_rh,
 WS_#_Avg,FF [m/s],1,null,
 WDrs_#_Avg,DD [deg],1,null,
 WG_#_Max,FFGUST [m/s],1,null,
