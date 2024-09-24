@@ -1,15 +1,11 @@
 {
     "CPU:S110_v02.CR300": {
-        "SWin_Avg": {
-            "standard_name": "SWin_1_Avg",
+        "test": {
+            "standard_name": "test",
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -244,10 +240,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "SM_Max": {
             "standard_name": "SM_1_Max",
             "interval_seconds": 3600.0
@@ -303,11 +295,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -813,11 +801,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -1295,11 +1279,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -1737,11 +1717,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -2179,11 +2155,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -2597,11 +2569,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -3015,11 +2983,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -3429,11 +3393,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -3843,11 +3803,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -4189,11 +4145,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -4535,11 +4487,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -4881,11 +4829,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -5227,11 +5171,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -5577,11 +5517,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -5925,11 +5861,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -5947,11 +5883,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -6295,11 +6227,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -6317,11 +6249,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -6665,11 +6593,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -6687,11 +6615,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -7035,11 +6959,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7057,11 +6981,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -7405,11 +7325,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7427,11 +7347,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -7775,11 +7691,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7797,11 +7713,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -8145,11 +8057,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_1_sensor",
+            "standard_name": "Rnet_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_1_sensor",
+            "standard_name": "TRH_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -8167,11 +8079,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -8329,142 +8237,6 @@
         "SoilMoisture_3_Avg": {
             "standard_name": "SM_3_Avg",
             "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeedRS_Avg": {
-            "standard_name": "WSrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDirUV_Avg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDirRS_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDir_StdY": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "WindDir_StdCSI": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Rainfall_MaxInt_Max": {
-            "standard_name": "RFint_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "SITE_NAME": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": null
         }
     },
     "CPU:HI Mesonet 08August2022 0502-v2.CR1X": {
@@ -8473,11 +8245,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -8635,142 +8403,6 @@
         "SoilMoisture_3_Avg": {
             "standard_name": "SM_3_Avg",
             "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeedRS_Avg": {
-            "standard_name": "WSrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDirUV_Avg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDirRS_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDir_StdY": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "WindDir_StdCSI": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Rainfall_MaxInt_Max": {
-            "standard_name": "RFint_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "SITE_NAME": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": null
         }
     },
     "CPU:HI Mesonet 26July2022_502_fixed SHF-2.CR1X": {
@@ -8779,11 +8411,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -8912,11 +8540,11 @@
         },
         "SHF_SN": {
             "standard_name": "SHF_1_SN",
-            "interval_seconds": 86400.0
+            "interval_seconds": null
         },
         "SHF_depth": {
             "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
+            "interval_seconds": null
         },
         "VBatt": {
             "standard_name": "VBatt",
@@ -8945,170 +8573,6 @@
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
             "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Rainfall_MaxInt_Max": {
-            "standard_name": "RFint_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "WindSpeed_WVc(2)": {
-            "standard_name": "WSrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindDir_VAvg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(3)": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "STD_WindDir": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(4)": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_1": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_2": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_3": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SITE_NAME": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": 86400.0
-        },
-        "SHF_CAL": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": null
-        },
-        "RV_LiBatt_V": {
-            "standard_name": "RV_1_LiBattV",
-            "interval_seconds": 86400.0
-        },
-        "DaySys_AH": {
-            "standard_name": "CH201_DaySysAh",
-            "interval_seconds": 86400.0
-        },
-        "DayLoad_AH": {
-            "standard_name": "CH201_DayLoadAh",
-            "interval_seconds": 86400.0
-        },
-        "DayBattIn_AH": {
-            "standard_name": "CH201_DayBattAhIn",
-            "interval_seconds": 86400.0
-        },
-        "DayBattOut_AH": {
-            "standard_name": "CH201_DayBattAhOut",
-            "interval_seconds": 86400.0
-        },
-        "VBatt_Min": {
-            "standard_name": "CH201_VBatt_Min",
-            "interval_seconds": 86400.0
-        },
-        "VBatt_Max": {
-            "standard_name": "CH201_VBatt_Max",
-            "interval_seconds": 86400.0
-        },
-        "Rainfall": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
         }
     },
     "CPU:HI Mesonet 04July2022 0502.v03.CR1X": {
@@ -9117,11 +8581,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -9270,146 +8730,6 @@
         },
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Rainfall_MaxInt_Max": {
-            "standard_name": "RFint_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "SITE_NAME": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": null
-        },
-        "WindDir_VAvg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "STD_WindDir": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_1": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_2": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_3": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(3)": {
-            "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
         }
     },
@@ -9419,11 +8739,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -9572,138 +8888,6 @@
         },
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "WindDir_VAvg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "STD_WindDir": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_1": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_2": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_3": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(3)": {
-            "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
         }
     },
@@ -9713,11 +8897,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -9866,138 +9046,6 @@
         },
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "WindDir_VAvg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "STD_WindDir": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_1": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_2": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_3": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(3)": {
-            "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
         }
     },
@@ -10007,11 +9055,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -10161,138 +9205,6 @@
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
             "interval_seconds": 300.0
-        },
-        "WindSpeed_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Pressure": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Pressure_sl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1": {
-            "standard_name": "Tsoil_2",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "SoilHeatFlux_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_TMx": {
-            "standard_name": "WS_1_TMx",
-            "interval_seconds": 300.0
-        },
-        "Anonymous1": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous2": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous3": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": 86400.0
-        },
-        "Anonymous4": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": 86400.0
-        },
-        "Rain_1min": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "V_in_1": {
-            "standard_name": "DCin_1",
-            "interval_seconds": 3600.0
-        },
-        "V_in_2": {
-            "standard_name": "DCin_2",
-            "interval_seconds": 3600.0
-        },
-        "Chg_TmpC": {
-            "standard_name": "ChgTmp",
-            "interval_seconds": 3600.0
-        },
-        "Chg_State": {
-            "standard_name": "ChgState",
-            "interval_seconds": 3600.0
-        },
-        "Chg_Source": {
-            "standard_name": "ChgSource",
-            "interval_seconds": 3600.0
-        },
-        "Ck_Batt": {
-            "standard_name": "CheckBatt",
-            "interval_seconds": 3600.0
-        },
-        "Sys_Amp_hr": {
-            "standard_name": "SysAh",
-            "interval_seconds": 3600.0
-        },
-        "Load_Amp_hr": {
-            "standard_name": "LoadAh",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_In": {
-            "standard_name": "BattAhIn",
-            "interval_seconds": 3600.0
-        },
-        "BattAmphr_Out": {
-            "standard_name": "BattAhOut",
-            "interval_seconds": 3600.0
-        },
-        "SITE_ELEVmtr": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "WindDir_VAvg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "STD_WindDir": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_1": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_2": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SoilMoisture_3": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "WindSpeed_WVc(3)": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_universal_v02p3.CR1X": {
@@ -10301,11 +9213,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -10751,11 +9659,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -11201,11 +10105,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -11651,11 +10551,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -12101,11 +10997,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -12495,34 +11387,6 @@
         "TSM3_depth": {
             "standard_name": "TSM3_depthM",
             "interval_seconds": null
-        },
-        "DailyCellUse": {
-            "standard_name": "CellUsageDay",
-            "interval_seconds": 86400.0
-        },
-        "SM_2_V31cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_V61cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_D55cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2_16cm": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_46cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_44cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_universal_v01.1.CR1X": {
@@ -12531,11 +11395,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -12917,30 +11777,6 @@
         "TSM3_depth": {
             "standard_name": "TSM3_depthM",
             "interval_seconds": null
-        },
-        "SM_2_V31cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_V61cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_D55cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2_16cm": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_46cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_44cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_universal_v01.CR1X": {
@@ -12949,11 +11785,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -13335,30 +12167,6 @@
         "TSM3_depth": {
             "standard_name": "TSM3_depthM",
             "interval_seconds": null
-        },
-        "SM_2_V31cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_V61cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_D55cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM2_16cm": {
-            "standard_name": "Tsoil_3",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_46cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM3_44cm": {
-            "standard_name": "Tsoil_4",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_universal_CR3000_v03.CR3": {
@@ -13367,11 +12175,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -13769,10 +12573,6 @@
         "SHF_2_Avg": {
             "standard_name": "SHF_2_Avg",
             "interval_seconds": 300.0
-        },
-        "WS_mult": {
-            "standard_name": "WS_1_mult",
-            "interval_seconds": null
         }
     },
     "CPU:HI Mesonet_universal_CR3000_v02p2.CR3": {
@@ -13781,11 +12581,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -14111,11 +12907,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -14441,11 +13233,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -14771,11 +13559,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -15096,54 +13880,6 @@
         },
         "SHF_2_SN": {
             "standard_name": "SHF_2_SN",
-            "interval_seconds": null
-        },
-        "SM_1_H4cm_Avg": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_2_V15cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_V45cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM1_depth0": {
-            "standard_name": "SM1_depth0",
-            "interval_seconds": null
-        },
-        "SM2_depth0": {
-            "standard_name": "SM2_depth0",
-            "interval_seconds": null
-        },
-        "SM3_depth0": {
-            "standard_name": "SM3_depth0",
-            "interval_seconds": null
-        },
-        "SM1_depthM": {
-            "standard_name": "SM1_depthM",
-            "interval_seconds": null
-        },
-        "SM2_depthM": {
-            "standard_name": "SM2_depthM",
-            "interval_seconds": null
-        },
-        "SM3_depthM": {
-            "standard_name": "SM3_depthM",
-            "interval_seconds": null
-        },
-        "TSM1_depthM": {
-            "standard_name": "TSM1_depthM",
-            "interval_seconds": null
-        },
-        "TSM2_depthM": {
-            "standard_name": "TSM2_depthM",
-            "interval_seconds": null
-        },
-        "TSM3_depthM": {
-            "standard_name": "TSM3_depthM",
             "interval_seconds": null
         }
     },
@@ -15153,11 +13889,7 @@
             "interval_seconds": 300.0
         },
         "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
+            "standard_name": "SWout_1",
             "interval_seconds": 300.0
         },
         "LWout_Avg": {
@@ -15478,54 +14210,6 @@
         },
         "SHF_2_SN": {
             "standard_name": "SHF_2_SN",
-            "interval_seconds": null
-        },
-        "SM_1_H4cm_Avg": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_2_V15cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_3_V45cm_Avg": {
-            "standard_name": "SM_3_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM1_depth0": {
-            "standard_name": "SM1_depth0",
-            "interval_seconds": null
-        },
-        "SM2_depth0": {
-            "standard_name": "SM2_depth0",
-            "interval_seconds": null
-        },
-        "SM3_depth0": {
-            "standard_name": "SM3_depth0",
-            "interval_seconds": null
-        },
-        "SM1_depthM": {
-            "standard_name": "SM1_depthM",
-            "interval_seconds": null
-        },
-        "SM2_depthM": {
-            "standard_name": "SM2_depthM",
-            "interval_seconds": null
-        },
-        "SM3_depthM": {
-            "standard_name": "SM3_depthM",
-            "interval_seconds": null
-        },
-        "TSM1_depthM": {
-            "standard_name": "TSM1_depthM",
-            "interval_seconds": null
-        },
-        "TSM2_depthM": {
-            "standard_name": "TSM2_depthM",
-            "interval_seconds": null
-        },
-        "TSM3_depthM": {
-            "standard_name": "TSM3_depthM",
             "interval_seconds": null
         }
     },
@@ -15588,10 +14272,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Albedo_Avg": {
@@ -15856,10 +14536,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Albedo_Avg": {
             "standard_name": "Albedo_1_Avg",
             "interval_seconds": 300.0
@@ -16122,10 +14798,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Albedo_Avg": {
             "standard_name": "Albedo_1_Avg",
             "interval_seconds": 300.0
@@ -16382,10 +15054,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Albedo_Avg": {
@@ -16662,10 +15330,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Albedo_Avg": {
             "standard_name": "Albedo_1_Avg",
             "interval_seconds": 300.0
@@ -16924,10 +15588,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Albedo_Avg": {
             "standard_name": "Albedo_1_Avg",
             "interval_seconds": 300.0
@@ -17184,10 +15844,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Albedo_Avg": {
@@ -17774,10 +16430,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tair_1_Avg": {
             "standard_name": "Tair_1_Avg",
             "interval_seconds": 3600.0
@@ -18000,10 +16652,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tair_1_Avg": {
             "standard_name": "Tair_1_Avg",
             "interval_seconds": 3600.0
@@ -18224,10 +16872,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Tair_1_Avg": {
@@ -18521,7 +17165,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18659,7 +17303,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18773,7 +17417,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18899,7 +17543,7 @@
             "interval_seconds": 60.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19037,7 +17681,7 @@
             "interval_seconds": 60.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19183,7 +17827,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19317,7 +17961,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19451,7 +18095,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19577,7 +18221,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "Tpanel_Avg": {
@@ -19695,7 +18339,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "Tpanel_Avg": {
@@ -19722,10 +18366,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Tsoil_Avg": {
@@ -19954,10 +18594,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -20178,10 +18814,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Tsoil_Avg": {
@@ -20406,10 +19038,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -20632,10 +19260,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -20856,10 +19480,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "SWup_sens": {
@@ -21088,10 +19708,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "SWup_sens": {
             "standard_name": "SWin_1_sens",
             "interval_seconds": null
@@ -21312,10 +19928,6 @@
         },
         "NUM_REC_LGR": {
             "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Tsoil_Avg": {
@@ -21552,10 +20164,6 @@
             "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 900.0
@@ -21786,14 +20394,6 @@
             "standard_name": "OUTPUT_INTERVAL",
             "interval_seconds": null
         },
-        "NUM_REC_LGR": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -22008,14 +20608,6 @@
             "standard_name": "OUTPUT_INTERVAL",
             "interval_seconds": null
         },
-        "NUM_REC_LGR": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -22180,14 +20772,6 @@
         },
         "OUTPUT_INTERVAL": {
             "standard_name": "OUTPUT_INTERVAL",
-            "interval_seconds": null
-        },
-        "NUM_REC_LGR": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
         },
         "Tsoil_Avg": {
@@ -22356,14 +20940,6 @@
             "standard_name": "OUTPUT_INTERVAL",
             "interval_seconds": null
         },
-        "NUM_REC_LGR": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -22524,10 +21100,6 @@
         },
         "OUTPUT_INTERVAL": {
             "standard_name": "OUTPUT_INTERVAL",
-            "interval_seconds": null
-        },
-        "NUM_REC_LGR": {
-            "standard_name": "NUM_REC_LGR",
             "interval_seconds": null
         },
         "Tsoil_Avg": {
@@ -22823,10 +21395,6 @@
         "Tnr01_Avg": {
             "standard_name": "Trnet_1_Avg",
             "interval_seconds": 3600.0
-        },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
         }
     },
     "CPU:HI Mesonet_0145_v02p1.CR300": {
@@ -22949,58 +21517,6 @@
         "Tsoil_Max": {
             "standard_name": "Tsoil_1_Max",
             "interval_seconds": 300.0
-        },
-        "P_Avg": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Psl_Avg": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "Tsoil": {
-            "standard_name": "Tsoil_1",
-            "interval_seconds": 300.0
-        },
-        "Good_Sample": {
-            "standard_name": "Good_Sample",
-            "interval_seconds": 300.0
-        },
-        "Fault_Wind": {
-            "standard_name": "Fault_Wind",
-            "interval_seconds": 300.0
-        },
-        "Fault_Temperature": {
-            "standard_name": "Fault_Temperature",
-            "interval_seconds": 300.0
-        },
-        "Fault_Dewpoint": {
-            "standard_name": "Fault_Dewpoint",
-            "interval_seconds": 300.0
-        },
-        "Fault_Humidity": {
-            "standard_name": "Fault_Humidity",
-            "interval_seconds": 300.0
-        },
-        "Fault_Pressure": {
-            "standard_name": "Fault_Pressure",
-            "interval_seconds": 300.0
-        },
-        "Fault_Compass": {
-            "standard_name": "Fault_Compass",
-            "interval_seconds": 300.0
-        },
-        "Fault_GPS": {
-            "standard_name": "Fault_GPS",
-            "interval_seconds": 300.0
-        },
-        "Fault_NAN": {
-            "standard_name": "Fault_NAN",
-            "interval_seconds": 300.0
-        },
-        "Fault_Undefined": {
-            "standard_name": "Fault_Undefined",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_NuuanuNet_v02.CR300": {
@@ -23079,10 +21595,6 @@
         "CellUsageMonth": {
             "standard_name": "CellUsageMonth",
             "interval_seconds": 86400.0
-        },
-        "Tsoil_1": {
-            "standard_name": "Tsoil_1",
-            "interval_seconds": 300.0
         }
     },
     "CPU:S151_v03.cr3": {
@@ -23222,10 +21734,6 @@
             "standard_name": "Trnet_1_Avg",
             "interval_seconds": 3600.0
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_LGR",
-            "interval_seconds": null
-        },
         "rslt_WindSpeed": {
             "standard_name": "WSrs_1_Avg",
             "interval_seconds": 3600.0
@@ -23289,7 +21797,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23419,7 +21927,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23593,7 +22101,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23759,7 +22267,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23901,7 +22409,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -24035,7 +22543,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -24169,7 +22677,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWup_Tot86400s",
+            "standard_name": "SWin_1_Tot86400s",
             "interval_seconds": 86400.0
         },
         "SWup_Avg": {
@@ -24549,6 +23057,12 @@
             "interval_seconds": 600.0
         }
     },
+    "CPU:S151_vNUM_REC_CRD\"": {
+        "NUM_REC_LGR": {
+            "standard_name": "NUM_REC_LGR",
+            "interval_seconds": null
+        }
+    },
     "CPU:HI Mesonet_0145_v02.CR300": {
         "Tair_1_Avg": {
             "standard_name": "Tair_1_Avg",
@@ -24677,46 +23191,6 @@
         "Tsoil_Max": {
             "standard_name": "Tsoil_1_Max",
             "interval_seconds": 300.0
-        },
-        "Tsoil": {
-            "standard_name": "Tsoil_1",
-            "interval_seconds": 300.0
-        },
-        "Good_Sample": {
-            "standard_name": "Good_Sample",
-            "interval_seconds": 300.0
-        },
-        "Fault_Wind": {
-            "standard_name": "Fault_Wind",
-            "interval_seconds": 300.0
-        },
-        "Fault_Temperature": {
-            "standard_name": "Fault_Temperature",
-            "interval_seconds": 300.0
-        },
-        "Fault_Dewpoint": {
-            "standard_name": "Fault_Dewpoint",
-            "interval_seconds": 300.0
-        },
-        "Fault_Humidity": {
-            "standard_name": "Fault_Humidity",
-            "interval_seconds": 300.0
-        },
-        "Fault_Pressure": {
-            "standard_name": "Fault_Pressure",
-            "interval_seconds": 300.0
-        },
-        "Fault_Compass": {
-            "standard_name": "Fault_Compass",
-            "interval_seconds": 300.0
-        },
-        "Fault_NAN": {
-            "standard_name": "Fault_NAN",
-            "interval_seconds": 300.0
-        },
-        "Fault_Undefined": {
-            "standard_name": "Fault_Undefined",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_0145_v01.CR300": {
@@ -24843,54 +23317,6 @@
         "RFmin": {
             "standard_name": "RF_1_Tot60s",
             "interval_seconds": 60.0
-        },
-        "Good_Sample": {
-            "standard_name": "Good_Sample",
-            "interval_seconds": 300.0
-        },
-        "Fault_Wind": {
-            "standard_name": "Fault_Wind",
-            "interval_seconds": 300.0
-        },
-        "Fault_Temperature": {
-            "standard_name": "Fault_Temperature",
-            "interval_seconds": 300.0
-        },
-        "Fault_Dewpoint": {
-            "standard_name": "Fault_Dewpoint",
-            "interval_seconds": 300.0
-        },
-        "Fault_Humidity": {
-            "standard_name": "Fault_Humidity",
-            "interval_seconds": 300.0
-        },
-        "Fault_Pressure": {
-            "standard_name": "Fault_Pressure",
-            "interval_seconds": 300.0
-        },
-        "Fault_Compass": {
-            "standard_name": "Fault_Compass",
-            "interval_seconds": 300.0
-        },
-        "Fault_NAN": {
-            "standard_name": "Fault_NAN",
-            "interval_seconds": 300.0
-        },
-        "Fault_Undefined": {
-            "standard_name": "Fault_Undefined",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1_8cm": {
-            "standard_name": "Tsoil_1",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1_Min": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_SM1_Max": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
         }
     },
     "CPU:HI Mesonet_0520_v01.CR300": {
@@ -25013,10 +23439,6 @@
         "Qloss": {
             "standard_name": "Qloss",
             "interval_seconds": 3600.0
-        },
-        "DailyCellUse": {
-            "standard_name": "CellUsageDay",
-            "interval_seconds": 86400.0
         }
     },
     "CPU:HI Mesonet_0520_v02.CR300": {
@@ -25147,10 +23569,6 @@
         "Qloss": {
             "standard_name": "Qloss",
             "interval_seconds": 3600.0
-        },
-        "CellUsageToday": {
-            "standard_name": "CellUsageDay",
-            "interval_seconds": 86400.0
         }
     },
     "CPU:HI Mesonet_0520_v02p1.CR300": {
