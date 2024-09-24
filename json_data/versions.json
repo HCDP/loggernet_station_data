@@ -5925,11 +5925,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -6295,11 +6295,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -6665,11 +6665,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7035,11 +7035,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7405,11 +7405,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -7775,11 +7775,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -8145,11 +8145,11 @@
             "interval_seconds": null
         },
         "Rnet_sensor": {
-            "standard_name": "Rnet_sensor",
+            "standard_name": "Rnet_1_sensor",
             "interval_seconds": null
         },
         "TRH_sensor": {
-            "standard_name": "TRH_sensor",
+            "standard_name": "TRH_1_sensor",
             "interval_seconds": null
         },
         "NO_Tsoil": {
@@ -18521,7 +18521,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18659,7 +18659,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18773,7 +18773,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -18899,7 +18899,7 @@
             "interval_seconds": 60.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19037,7 +19037,7 @@
             "interval_seconds": 60.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19183,7 +19183,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19317,7 +19317,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19451,7 +19451,7 @@
             "interval_seconds": 300.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -19577,7 +19577,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "Tpanel_Avg": {
@@ -19695,7 +19695,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "Tpanel_Avg": {
@@ -22684,10 +22684,6 @@
             "standard_name": "OUTPUT_INTERVAL",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -22827,6 +22823,10 @@
         "Tnr01_Avg": {
             "standard_name": "Trnet_1_Avg",
             "interval_seconds": 3600.0
+        },
+        "NUM_REC_CRD": {
+            "standard_name": "NUM_REC_LGR",
+            "interval_seconds": null
         }
     },
     "CPU:HI Mesonet_0145_v02p1.CR300": {
@@ -23094,10 +23094,6 @@
             "standard_name": "OUTPUT_INTERVAL",
             "interval_seconds": null
         },
-        "NUM_REC_CRD": {
-            "standard_name": "NUM_REC_CRD",
-            "interval_seconds": null
-        },
         "Tsoil_Avg": {
             "standard_name": "Tsoil_1_Avg",
             "interval_seconds": 3600.0
@@ -23226,6 +23222,10 @@
             "standard_name": "Trnet_1_Avg",
             "interval_seconds": 3600.0
         },
+        "NUM_REC_CRD": {
+            "standard_name": "NUM_REC_LGR",
+            "interval_seconds": null
+        },
         "rslt_WindSpeed": {
             "standard_name": "WSrs_1_Avg",
             "interval_seconds": 3600.0
@@ -23289,7 +23289,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23419,7 +23419,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23593,7 +23593,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23759,7 +23759,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -23901,7 +23901,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -24035,7 +24035,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "PAR_Tot_Tot": {
@@ -24169,7 +24169,7 @@
             "interval_seconds": 600.0
         },
         "SWup_Tot_Tot": {
-            "standard_name": "SWin_1_Tot86400s",
+            "standard_name": "SWup_Tot86400s",
             "interval_seconds": 86400.0
         },
         "SWup_Avg": {
