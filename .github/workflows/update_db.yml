@@ -25,4 +25,4 @@ jobs:
           DB_USERNAME: ${{ secrets.DB_USERNAME }}
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
         run:
-          python3 $GITHUB_WORKSPACE/scripts/update_db.py
+          pip3 install psycopg2 && python3 $GITHUB_WORKSPACE/scripts/update_db.py
