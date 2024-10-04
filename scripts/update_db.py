@@ -48,7 +48,7 @@ def load_rows(table, row_len, rows, cur):
 table_name_whitelist = ["sensor_positions", "station_metadata", "synoptic_exclude", "synoptic_translations", "variable_metadata", "version_translations"]
 
 with psycopg2.connect(
-    host = environ.get["DB_HOST"], 
+    host = environ["DB_HOST"], 
     port = environ.get("DB_PORT") or "5432", 
     dbname = environ["DB_NAME"], 
     user = environ["DB_USERNAME"], 
