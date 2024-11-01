@@ -20,7 +20,7 @@ def load_versions(file, table, cur):
             row[2] = int(row[2]) if row[2] != "NA" else None
             programs = row[3]
             program_list = programs.split(";")
-            rows += [[*row[:3], program] for program in program_list]
+            rows += [[*row[:3], f"CPU:{program}"] for program in program_list]
         
         #TEMPORARY
         keys = set()
