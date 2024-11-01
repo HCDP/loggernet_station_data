@@ -4,14 +4,18 @@
         "synoptic_name": "T [C]",
         "unit_conversion_coefficient": 1.0,
         "metadata_col": "t_rh",
-        "exclude": []
+        "exclude": [
+            "0134.1 "
+        ]
     },
     "RH_#_Avg": {
         "standard_name": "RH_#_Avg",
         "synoptic_name": "RH [%]",
         "unit_conversion_coefficient": 1.0,
         "metadata_col": "t_rh",
-        "exclude": []
+        "exclude": [
+            "0134.1 "
+        ]
     },
     "WS_#_Avg": {
         "standard_name": "WS_#_Avg",
