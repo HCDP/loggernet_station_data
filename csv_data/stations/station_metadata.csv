@@ -65,6 +65,7 @@ station_id,location,name,lat,lng,elevation
 0604,hawaii,UpperLimahuli,22.18454,-159.582659,994
 0605,hawaii,PowerlineTrail,22.113562,-159.438786,651
 0621,hawaii,LawaiNTBG,21.905295,-159.510395,106
+0641,hawaii,Hanamaulu,22.018201,-159.437989,225
 1311,american_samoa,Poloa,-14.3196,-170.8308,143
 1312,american_samoa,Aasu,-14.3098,-170.7715,358
 1313,american_samoa,Vaipito,-14.2829,-170.7105,92
