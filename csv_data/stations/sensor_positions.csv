@@ -53,6 +53,7 @@ station_id,standard_name,sensor_number,sensor_height
 0119,RH_2_Avg,1,1.4
 0119,SM_1_Avg,0,-0.15
 0119,SM_2_Avg,1,-0.45
+0119,SM_3_Avg,2,
 0119,Tsoil_1,0,-0.04
 0119,Tsoil_1_Avg,0,-0.04
 0119,RF_1_Tot300s,0,1.0
