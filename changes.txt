@@ -1,7 +1,0 @@
-csv_data/measurements/measurement_table_map.csv
-csv_data/stations/sensor_positions.csv
-csv_data/stations/station_metadata.csv
-csv_data/synoptic/synoptic_exclude.csv
-csv_data/synoptic/synoptic_translations.csv
-csv_data/variables/variable_metadata.csv
-csv_data/variables/version_translations.csv
