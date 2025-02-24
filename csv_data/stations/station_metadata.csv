@@ -25,7 +25,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0166,hawaii,Kipahulu VC,Kīpahulu Visitors Center,20.661092,-156.044767,29,Active
 0201,hawaii,Nahuku,Nāhuku,19.415215,-155.238394,1202,Active
 0202,hawaii,Keaau,Keaʻau,19.6061748,-155.0515231,182,Active
-0203,hawaii,Olaa	ʻŌlaʻa,19.478399,-155.214969,1043,Inactive
+0203,hawaii,Olaa,ʻŌlaʻa,19.478399,-155.214969,1043,Inactive
 0204,hawaii,Pahoa,Pāhoa,19.501169,-154.943731,175,Active
 0211,hawaii,Kanakaleonui,Kanakaleonui,19.845036,-155.362586,2352,Active
 0212,hawaii,Kulaimano,Kulaʻimano,19.834341,-155.122435,260,Active
