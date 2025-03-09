@@ -9685,7 +9685,7 @@
             "interval_seconds": null
         }
     },
-    "CPU:S141_v13.CR3": {
+    "CPU:S141_v13p5.CR3": {
         "SWin_Avg": {
             "standard_name": "SWin_1_Avg",
             "interval_seconds": 300.0
@@ -9774,350 +9774,28 @@
             "standard_name": "VPD_2_Avg",
             "interval_seconds": 300.0
         },
-        "P": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Psl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "SHFsrf_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "RF_Tot": {
-            "standard_name": "RF_1_Tot300s",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Min": {
-            "standard_name": "Tair_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Max": {
-            "standard_name": "Tair_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Min": {
-            "standard_name": "Tair_2_Min",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Max": {
-            "standard_name": "Tair_2_Max",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Min": {
-            "standard_name": "RH_1_Min",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Max": {
-            "standard_name": "RH_1_Max",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Min": {
-            "standard_name": "RH_2_Min",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Max": {
-            "standard_name": "RH_2_Max",
-            "interval_seconds": 300.0
-        },
-        "WG_Max": {
-            "standard_name": "WG_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WS_Max": {
-            "standard_name": "WS_1_Max",
-            "interval_seconds": 300.0
-        },
-        "BattVolt": {
-            "standard_name": "BattVolt",
-            "interval_seconds": 300.0
-        },
-        "Tpanel": {
-            "standard_name": "Tpanel",
-            "interval_seconds": 300.0
-        },
-        "RHenc": {
-            "standard_name": "RHenc",
-            "interval_seconds": 300.0
-        },
-        "Trnet_Avg": {
-            "standard_name": "Trnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Avg": {
-            "standard_name": "DutyCycle_Avg",
-            "interval_seconds": 300.0
-        },
-        "RHenc_Min": {
-            "standard_name": "RHenc_Min",
-            "interval_seconds": 86400.0
-        },
-        "RHenc_Max": {
-            "standard_name": "RHenc_Max",
-            "interval_seconds": 86400.0
-        },
-        "Tpanel_Min": {
-            "standard_name": "Tpanel_Min",
-            "interval_seconds": 86400.0
-        },
-        "Tpanel_Max": {
-            "standard_name": "Tpanel_Max",
-            "interval_seconds": 86400.0
-        },
-        "LGR_LiBattV": {
-            "standard_name": "LGR_LiBattV",
-            "interval_seconds": 86400.0
-        },
-        "BattVolt_Min": {
-            "standard_name": "BattVolt_Min",
-            "interval_seconds": 86400.0
-        },
-        "BattVolt_Max": {
-            "standard_name": "BattVolt_Max",
-            "interval_seconds": 86400.0
-        },
-        "LGR_StName": {
-            "standard_name": "LGR_StName",
-            "interval_seconds": null
-        },
-        "LGR_PakBus": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": null
-        },
-        "ST_ID": {
-            "standard_name": "ST_ID",
-            "interval_seconds": null
-        },
-        "SITE_ELEV": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "SITE_BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "Rnet_SN": {
-            "standard_name": "Rnet_1_SN",
-            "interval_seconds": null
-        },
-        "SWin_sens": {
-            "standard_name": "SWin_1_sens",
-            "interval_seconds": null
-        },
-        "SWout_sens": {
-            "standard_name": "SWout_1_sens",
-            "interval_seconds": null
-        },
-        "LWin_sens": {
-            "standard_name": "LWin_1_sens",
-            "interval_seconds": null
-        },
-        "LWout_sens": {
-            "standard_name": "LWout_1_sens",
-            "interval_seconds": null
-        },
-        "SHF_depth": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": null
-        },
-        "Tsoil_TCAV_Avg": {
-            "standard_name": "Tsoil_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "RFmin": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "SM1_ori": {
-            "standard_name": "SM1_ori",
-            "interval_seconds": null
-        },
-        "SM2_ori": {
-            "standard_name": "SM2_ori",
-            "interval_seconds": null
-        },
-        "SM1_depth": {
-            "standard_name": "SM1_depthM",
-            "interval_seconds": null
-        },
-        "SM2_depth": {
-            "standard_name": "SM2_depthM",
-            "interval_seconds": null
-        },
-        "SHF_1_SN": {
-            "standard_name": "SHF_1_SN",
-            "interval_seconds": null
-        },
-        "SHF_1_sens": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": null
-        },
-        "SHF_2_SN": {
-            "standard_name": "SHF_2_SN",
-            "interval_seconds": null
-        },
-        "SHF_2_sens": {
-            "standard_name": "SHF_2_sens",
-            "interval_seconds": null
-        },
-        "SHF_1_8cm_Avg": {
-            "standard_name": "SHF_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SHF_2_8cm_Avg": {
-            "standard_name": "SHF_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "TCair_Avg": {
-            "standard_name": "TCair_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WS_1_Avg": {
+        "WS_Avg": {
             "standard_name": "WS_1_Avg",
             "interval_seconds": 300.0
         },
-        "WSrs_1_Avg": {
+        "WSrs_Avg": {
             "standard_name": "WSrs_1_Avg",
             "interval_seconds": 300.0
         },
-        "WDrs_1_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdCS": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "WDuv_1_Avg": {
+        "WDuv_Avg": {
             "standard_name": "WDuv_1_Avg",
             "interval_seconds": 300.0
         },
-        "WD_1_StdY": {
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
             "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
         },
-        "SM_2_H4cm_Avg": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_1_V15cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
-        },
-        "TrnetK_Avg": {
-            "standard_name": "Trnet_K_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "HEATER_flag": {
-            "standard_name": "Rnet_1_heater",
-            "interval_seconds": null
-        }
-    },
-    "CPU:S141_v13p1.CR3": {
-        "SWin_Avg": {
-            "standard_name": "SWin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWout_Avg": {
-            "standard_name": "LWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SWnet_Avg": {
-            "standard_name": "SWnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWnet_Avg": {
-            "standard_name": "LWnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rin_Avg": {
-            "standard_name": "Rin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rout_Avg": {
-            "standard_name": "Rout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rnet_Avg": {
-            "standard_name": "Rnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Albedo_Avg": {
-            "standard_name": "Albedo_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsrf_Avg": {
-            "standard_name": "Tsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsky_Avg": {
-            "standard_name": "Tsky_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Avg": {
-            "standard_name": "Tair_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Avg": {
-            "standard_name": "Tair_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Avg": {
-            "standard_name": "RH_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Avg": {
-            "standard_name": "RH_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VP_1_Avg": {
-            "standard_name": "VP_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VP_2_Avg": {
-            "standard_name": "VP_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPsat_1_Avg": {
-            "standard_name": "VPsat_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPsat_2_Avg": {
-            "standard_name": "VPsat_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPD_1_Avg": {
-            "standard_name": "VPD_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPD_2_Avg": {
-            "standard_name": "VPD_2_Avg",
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
             "interval_seconds": 300.0
         },
         "P": {
@@ -10334,376 +10012,6 @@
         },
         "TCair_Avg": {
             "standard_name": "TCair_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WS_1_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WSrs_1_Avg": {
-            "standard_name": "WSrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WDrs_1_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdCS": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "WDuv_1_Avg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdY": {
-            "standard_name": "WD_1_StdY",
-            "interval_seconds": 300.0
-        },
-        "SM_2_H4cm_Avg": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SM_1_V15cm_Avg": {
-            "standard_name": "SM_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "TrnetK_Avg": {
-            "standard_name": "Trnet_K_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "HEATER_flag": {
-            "standard_name": "Rnet_1_heater",
-            "interval_seconds": null
-        }
-    },
-    "CPU:S141_v13p2.CR3": {
-        "SWin_Avg": {
-            "standard_name": "SWin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SWout_Avg": {
-            "standard_name": "SWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWin_Avg": {
-            "standard_name": "LWin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWout_Avg": {
-            "standard_name": "LWout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SWnet_Avg": {
-            "standard_name": "SWnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "LWnet_Avg": {
-            "standard_name": "LWnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rin_Avg": {
-            "standard_name": "Rin_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rout_Avg": {
-            "standard_name": "Rout_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Rnet_Avg": {
-            "standard_name": "Rnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Albedo_Avg": {
-            "standard_name": "Albedo_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsrf_Avg": {
-            "standard_name": "Tsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsky_Avg": {
-            "standard_name": "Tsky_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Avg": {
-            "standard_name": "Tair_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Avg": {
-            "standard_name": "Tair_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Avg": {
-            "standard_name": "RH_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Avg": {
-            "standard_name": "RH_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VP_1_Avg": {
-            "standard_name": "VP_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VP_2_Avg": {
-            "standard_name": "VP_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPsat_1_Avg": {
-            "standard_name": "VPsat_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPsat_2_Avg": {
-            "standard_name": "VPsat_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPD_1_Avg": {
-            "standard_name": "VPD_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "VPD_2_Avg": {
-            "standard_name": "VPD_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "P": {
-            "standard_name": "P_1",
-            "interval_seconds": 300.0
-        },
-        "Psl": {
-            "standard_name": "Psl_1",
-            "interval_seconds": 300.0
-        },
-        "SHFsrf_Avg": {
-            "standard_name": "SHFsrf_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "RF_Tot": {
-            "standard_name": "RF_1_Tot300s",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Min": {
-            "standard_name": "Tair_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tair_1_Max": {
-            "standard_name": "Tair_1_Max",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Min": {
-            "standard_name": "Tair_2_Min",
-            "interval_seconds": 300.0
-        },
-        "Tair_2_Max": {
-            "standard_name": "Tair_2_Max",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Min": {
-            "standard_name": "RH_1_Min",
-            "interval_seconds": 300.0
-        },
-        "RH_1_Max": {
-            "standard_name": "RH_1_Max",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Min": {
-            "standard_name": "RH_2_Min",
-            "interval_seconds": 300.0
-        },
-        "RH_2_Max": {
-            "standard_name": "RH_2_Max",
-            "interval_seconds": 300.0
-        },
-        "WG_Max": {
-            "standard_name": "WG_1_Max",
-            "interval_seconds": 300.0
-        },
-        "WS_Max": {
-            "standard_name": "WS_1_Max",
-            "interval_seconds": 300.0
-        },
-        "BattVolt": {
-            "standard_name": "BattVolt",
-            "interval_seconds": 300.0
-        },
-        "Tpanel": {
-            "standard_name": "Tpanel",
-            "interval_seconds": 300.0
-        },
-        "RHenc": {
-            "standard_name": "RHenc",
-            "interval_seconds": 300.0
-        },
-        "Trnet_Avg": {
-            "standard_name": "Trnet_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Avg": {
-            "standard_name": "DutyCycle_Avg",
-            "interval_seconds": 300.0
-        },
-        "RHenc_Min": {
-            "standard_name": "RHenc_Min",
-            "interval_seconds": 86400.0
-        },
-        "RHenc_Max": {
-            "standard_name": "RHenc_Max",
-            "interval_seconds": 86400.0
-        },
-        "Tpanel_Min": {
-            "standard_name": "Tpanel_Min",
-            "interval_seconds": 86400.0
-        },
-        "Tpanel_Max": {
-            "standard_name": "Tpanel_Max",
-            "interval_seconds": 86400.0
-        },
-        "LGR_LiBattV": {
-            "standard_name": "LGR_LiBattV",
-            "interval_seconds": 86400.0
-        },
-        "BattVolt_Min": {
-            "standard_name": "BattVolt_Min",
-            "interval_seconds": 86400.0
-        },
-        "BattVolt_Max": {
-            "standard_name": "BattVolt_Max",
-            "interval_seconds": 86400.0
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 86400.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 86400.0
-        },
-        "LGR_StName": {
-            "standard_name": "LGR_StName",
-            "interval_seconds": null
-        },
-        "LGR_PakBus": {
-            "standard_name": "LGR_PakBus",
-            "interval_seconds": null
-        },
-        "ST_ID": {
-            "standard_name": "ST_ID",
-            "interval_seconds": null
-        },
-        "SITE_ELEV": {
-            "standard_name": "SITE_ELEV",
-            "interval_seconds": null
-        },
-        "SITE_BD": {
-            "standard_name": "SITE_BD",
-            "interval_seconds": null
-        },
-        "Rnet_SN": {
-            "standard_name": "Rnet_1_SN",
-            "interval_seconds": null
-        },
-        "SWin_sens": {
-            "standard_name": "SWin_1_sens",
-            "interval_seconds": null
-        },
-        "SWout_sens": {
-            "standard_name": "SWout_1_sens",
-            "interval_seconds": null
-        },
-        "LWin_sens": {
-            "standard_name": "LWin_1_sens",
-            "interval_seconds": null
-        },
-        "LWout_sens": {
-            "standard_name": "LWout_1_sens",
-            "interval_seconds": null
-        },
-        "SHF_depth": {
-            "standard_name": "SHF_depth",
-            "interval_seconds": null
-        },
-        "Tsoil_TCAV_Avg": {
-            "standard_name": "Tsoil_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Min": {
-            "standard_name": "Tsoil_1_Min",
-            "interval_seconds": 300.0
-        },
-        "Tsoil_TCAV_Max": {
-            "standard_name": "Tsoil_1_Max",
-            "interval_seconds": 300.0
-        },
-        "RFmin": {
-            "standard_name": "RF_1_Tot60s",
-            "interval_seconds": 60.0
-        },
-        "SM1_ori": {
-            "standard_name": "SM1_ori",
-            "interval_seconds": null
-        },
-        "SM2_ori": {
-            "standard_name": "SM2_ori",
-            "interval_seconds": null
-        },
-        "SM1_depth": {
-            "standard_name": "SM1_depthM",
-            "interval_seconds": null
-        },
-        "SM2_depth": {
-            "standard_name": "SM2_depthM",
-            "interval_seconds": null
-        },
-        "SHF_1_SN": {
-            "standard_name": "SHF_1_SN",
-            "interval_seconds": null
-        },
-        "SHF_1_sens": {
-            "standard_name": "SHF_1_sens",
-            "interval_seconds": null
-        },
-        "SHF_2_SN": {
-            "standard_name": "SHF_2_SN",
-            "interval_seconds": null
-        },
-        "SHF_2_sens": {
-            "standard_name": "SHF_2_sens",
-            "interval_seconds": null
-        },
-        "SHF_1_8cm_Avg": {
-            "standard_name": "SHF_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "SHF_2_8cm_Avg": {
-            "standard_name": "SHF_2_Avg",
-            "interval_seconds": 300.0
-        },
-        "TCair_Avg": {
-            "standard_name": "TCair_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WS_1_Avg": {
-            "standard_name": "WS_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WSrs_1_Avg": {
-            "standard_name": "WSrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WDrs_1_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdCS": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "WDuv_1_Avg": {
-            "standard_name": "WDuv_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdY": {
-            "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
         },
         "SM_2_H4cm_Avg": {
@@ -10812,6 +10120,30 @@
             "standard_name": "VPD_2_Avg",
             "interval_seconds": 300.0
         },
+        "WS_Avg": {
+            "standard_name": "WS_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WSrs_Avg": {
+            "standard_name": "WSrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDuv_Avg": {
+            "standard_name": "WDuv_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
+            "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
         "P": {
             "standard_name": "P_1",
             "interval_seconds": 300.0
@@ -11028,28 +10360,350 @@
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
         },
-        "WS_1_Avg": {
+        "SM_2_H4cm_Avg": {
+            "standard_name": "SM_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SM_1_V15cm_Avg": {
+            "standard_name": "SM_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TrnetK_Avg": {
+            "standard_name": "Trnet_K_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "HEATER_flag": {
+            "standard_name": "Rnet_1_heater",
+            "interval_seconds": null
+        }
+    },
+    "CPU:S141_v13p2.CR3": {
+        "SWin_Avg": {
+            "standard_name": "SWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWout_Avg": {
+            "standard_name": "SWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWin_Avg": {
+            "standard_name": "LWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWout_Avg": {
+            "standard_name": "LWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWnet_Avg": {
+            "standard_name": "SWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWnet_Avg": {
+            "standard_name": "LWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rin_Avg": {
+            "standard_name": "Rin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rout_Avg": {
+            "standard_name": "Rout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rnet_Avg": {
+            "standard_name": "Rnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Albedo_Avg": {
+            "standard_name": "Albedo_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsrf_Avg": {
+            "standard_name": "Tsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsky_Avg": {
+            "standard_name": "Tsky_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Avg": {
+            "standard_name": "Tair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Avg": {
+            "standard_name": "Tair_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Avg": {
+            "standard_name": "RH_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Avg": {
+            "standard_name": "RH_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_1_Avg": {
+            "standard_name": "VP_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_2_Avg": {
+            "standard_name": "VP_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_1_Avg": {
+            "standard_name": "VPsat_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_2_Avg": {
+            "standard_name": "VPsat_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_1_Avg": {
+            "standard_name": "VPD_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_2_Avg": {
+            "standard_name": "VPD_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "WS_Avg": {
             "standard_name": "WS_1_Avg",
             "interval_seconds": 300.0
         },
-        "WSrs_1_Avg": {
+        "WSrs_Avg": {
             "standard_name": "WSrs_1_Avg",
             "interval_seconds": 300.0
         },
-        "WDrs_1_Avg": {
-            "standard_name": "WDrs_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "WD_1_StdCS": {
-            "standard_name": "WD_1_StdCS",
-            "interval_seconds": 300.0
-        },
-        "WDuv_1_Avg": {
+        "WDuv_Avg": {
             "standard_name": "WDuv_1_Avg",
             "interval_seconds": 300.0
         },
-        "WD_1_StdY": {
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
             "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
+        "P": {
+            "standard_name": "P_1",
+            "interval_seconds": 300.0
+        },
+        "Psl": {
+            "standard_name": "Psl_1",
+            "interval_seconds": 300.0
+        },
+        "SHFsrf_Avg": {
+            "standard_name": "SHFsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Min": {
+            "standard_name": "Tair_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Max": {
+            "standard_name": "Tair_1_Max",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Min": {
+            "standard_name": "RH_1_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Max": {
+            "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
+            "interval_seconds": 300.0
+        },
+        "WG_Max": {
+            "standard_name": "WG_1_Max",
+            "interval_seconds": 300.0
+        },
+        "WS_Max": {
+            "standard_name": "WS_1_Max",
+            "interval_seconds": 300.0
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "Trnet_Avg": {
+            "standard_name": "Trnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Avg": {
+            "standard_name": "DutyCycle_Avg",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_LiBattV": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Max",
+            "interval_seconds": 86400.0
+        },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 86400.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_StName": {
+            "standard_name": "LGR_StName",
+            "interval_seconds": null
+        },
+        "LGR_PakBus": {
+            "standard_name": "LGR_PakBus",
+            "interval_seconds": null
+        },
+        "ST_ID": {
+            "standard_name": "ST_ID",
+            "interval_seconds": null
+        },
+        "SITE_ELEV": {
+            "standard_name": "SITE_ELEV",
+            "interval_seconds": null
+        },
+        "SITE_BD": {
+            "standard_name": "SITE_BD",
+            "interval_seconds": null
+        },
+        "Rnet_SN": {
+            "standard_name": "Rnet_1_SN",
+            "interval_seconds": null
+        },
+        "SWin_sens": {
+            "standard_name": "SWin_1_sens",
+            "interval_seconds": null
+        },
+        "SWout_sens": {
+            "standard_name": "SWout_1_sens",
+            "interval_seconds": null
+        },
+        "LWin_sens": {
+            "standard_name": "LWin_1_sens",
+            "interval_seconds": null
+        },
+        "LWout_sens": {
+            "standard_name": "LWout_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_depth": {
+            "standard_name": "SHF_depth",
+            "interval_seconds": null
+        },
+        "Tsoil_TCAV_Avg": {
+            "standard_name": "Tsoil_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Min": {
+            "standard_name": "Tsoil_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Max": {
+            "standard_name": "Tsoil_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": 60.0
+        },
+        "SM1_ori": {
+            "standard_name": "SM1_ori",
+            "interval_seconds": null
+        },
+        "SM2_ori": {
+            "standard_name": "SM2_ori",
+            "interval_seconds": null
+        },
+        "SM1_depth": {
+            "standard_name": "SM1_depthM",
+            "interval_seconds": null
+        },
+        "SM2_depth": {
+            "standard_name": "SM2_depthM",
+            "interval_seconds": null
+        },
+        "SHF_1_SN": {
+            "standard_name": "SHF_1_SN",
+            "interval_seconds": null
+        },
+        "SHF_1_sens": {
+            "standard_name": "SHF_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_2_SN": {
+            "standard_name": "SHF_2_SN",
+            "interval_seconds": null
+        },
+        "SHF_2_sens": {
+            "standard_name": "SHF_2_sens",
+            "interval_seconds": null
+        },
+        "SHF_1_8cm_Avg": {
+            "standard_name": "SHF_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SHF_2_8cm_Avg": {
+            "standard_name": "SHF_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TCair_Avg": {
+            "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
         },
         "SM_2_H4cm_Avg": {
@@ -11067,6 +10721,698 @@
         "HEATER_flag": {
             "standard_name": "Rnet_1_heater",
             "interval_seconds": null
+        }
+    },
+    "CPU:S141_v13p1.CR3": {
+        "SWin_Avg": {
+            "standard_name": "SWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWout_Avg": {
+            "standard_name": "SWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWin_Avg": {
+            "standard_name": "LWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWout_Avg": {
+            "standard_name": "LWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWnet_Avg": {
+            "standard_name": "SWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWnet_Avg": {
+            "standard_name": "LWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rin_Avg": {
+            "standard_name": "Rin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rout_Avg": {
+            "standard_name": "Rout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rnet_Avg": {
+            "standard_name": "Rnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Albedo_Avg": {
+            "standard_name": "Albedo_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsrf_Avg": {
+            "standard_name": "Tsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsky_Avg": {
+            "standard_name": "Tsky_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Avg": {
+            "standard_name": "Tair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Avg": {
+            "standard_name": "Tair_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Avg": {
+            "standard_name": "RH_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Avg": {
+            "standard_name": "RH_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_1_Avg": {
+            "standard_name": "VP_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_2_Avg": {
+            "standard_name": "VP_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_1_Avg": {
+            "standard_name": "VPsat_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_2_Avg": {
+            "standard_name": "VPsat_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_1_Avg": {
+            "standard_name": "VPD_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_2_Avg": {
+            "standard_name": "VPD_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "WS_Avg": {
+            "standard_name": "WS_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WSrs_Avg": {
+            "standard_name": "WSrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDuv_Avg": {
+            "standard_name": "WDuv_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
+            "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
+        "P": {
+            "standard_name": "P_1",
+            "interval_seconds": 300.0
+        },
+        "Psl": {
+            "standard_name": "Psl_1",
+            "interval_seconds": 300.0
+        },
+        "SHFsrf_Avg": {
+            "standard_name": "SHFsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Min": {
+            "standard_name": "Tair_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Max": {
+            "standard_name": "Tair_1_Max",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Min": {
+            "standard_name": "RH_1_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Max": {
+            "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
+            "interval_seconds": 300.0
+        },
+        "WG_Max": {
+            "standard_name": "WG_1_Max",
+            "interval_seconds": 300.0
+        },
+        "WS_Max": {
+            "standard_name": "WS_1_Max",
+            "interval_seconds": 300.0
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "Trnet_Avg": {
+            "standard_name": "Trnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Avg": {
+            "standard_name": "DutyCycle_Avg",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_LiBattV": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Max",
+            "interval_seconds": 86400.0
+        },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 86400.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_StName": {
+            "standard_name": "LGR_StName",
+            "interval_seconds": null
+        },
+        "LGR_PakBus": {
+            "standard_name": "LGR_PakBus",
+            "interval_seconds": null
+        },
+        "ST_ID": {
+            "standard_name": "ST_ID",
+            "interval_seconds": null
+        },
+        "SITE_ELEV": {
+            "standard_name": "SITE_ELEV",
+            "interval_seconds": null
+        },
+        "SITE_BD": {
+            "standard_name": "SITE_BD",
+            "interval_seconds": null
+        },
+        "Rnet_SN": {
+            "standard_name": "Rnet_1_SN",
+            "interval_seconds": null
+        },
+        "SWin_sens": {
+            "standard_name": "SWin_1_sens",
+            "interval_seconds": null
+        },
+        "SWout_sens": {
+            "standard_name": "SWout_1_sens",
+            "interval_seconds": null
+        },
+        "LWin_sens": {
+            "standard_name": "LWin_1_sens",
+            "interval_seconds": null
+        },
+        "LWout_sens": {
+            "standard_name": "LWout_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_depth": {
+            "standard_name": "SHF_depth",
+            "interval_seconds": null
+        },
+        "Tsoil_TCAV_Avg": {
+            "standard_name": "Tsoil_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Min": {
+            "standard_name": "Tsoil_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Max": {
+            "standard_name": "Tsoil_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": 60.0
+        },
+        "SM1_ori": {
+            "standard_name": "SM1_ori",
+            "interval_seconds": null
+        },
+        "SM2_ori": {
+            "standard_name": "SM2_ori",
+            "interval_seconds": null
+        },
+        "SM1_depth": {
+            "standard_name": "SM1_depthM",
+            "interval_seconds": null
+        },
+        "SM2_depth": {
+            "standard_name": "SM2_depthM",
+            "interval_seconds": null
+        },
+        "SHF_1_SN": {
+            "standard_name": "SHF_1_SN",
+            "interval_seconds": null
+        },
+        "SHF_1_sens": {
+            "standard_name": "SHF_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_2_SN": {
+            "standard_name": "SHF_2_SN",
+            "interval_seconds": null
+        },
+        "SHF_2_sens": {
+            "standard_name": "SHF_2_sens",
+            "interval_seconds": null
+        },
+        "SHF_1_8cm_Avg": {
+            "standard_name": "SHF_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SHF_2_8cm_Avg": {
+            "standard_name": "SHF_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TCair_Avg": {
+            "standard_name": "TCair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SM_2_H4cm_Avg": {
+            "standard_name": "SM_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SM_1_V15cm_Avg": {
+            "standard_name": "SM_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TrnetK_Avg": {
+            "standard_name": "Trnet_K_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "HEATER_flag": {
+            "standard_name": "Rnet_1_heater",
+            "interval_seconds": null
+        }
+    },
+    "CPU:S141_v13.CR3": {
+        "SWin_Avg": {
+            "standard_name": "SWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWout_Avg": {
+            "standard_name": "SWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWin_Avg": {
+            "standard_name": "LWin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWout_Avg": {
+            "standard_name": "LWout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SWnet_Avg": {
+            "standard_name": "SWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "LWnet_Avg": {
+            "standard_name": "LWnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rin_Avg": {
+            "standard_name": "Rin_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rout_Avg": {
+            "standard_name": "Rout_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Rnet_Avg": {
+            "standard_name": "Rnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Albedo_Avg": {
+            "standard_name": "Albedo_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsrf_Avg": {
+            "standard_name": "Tsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsky_Avg": {
+            "standard_name": "Tsky_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Avg": {
+            "standard_name": "Tair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Avg": {
+            "standard_name": "Tair_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Avg": {
+            "standard_name": "RH_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Avg": {
+            "standard_name": "RH_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_1_Avg": {
+            "standard_name": "VP_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_2_Avg": {
+            "standard_name": "VP_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_1_Avg": {
+            "standard_name": "VPsat_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_2_Avg": {
+            "standard_name": "VPsat_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_1_Avg": {
+            "standard_name": "VPD_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_2_Avg": {
+            "standard_name": "VPD_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "WS_Avg": {
+            "standard_name": "WS_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WSrs_Avg": {
+            "standard_name": "WSrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDuv_Avg": {
+            "standard_name": "WDuv_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
+            "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
+        "P": {
+            "standard_name": "P_1",
+            "interval_seconds": 300.0
+        },
+        "Psl": {
+            "standard_name": "Psl_1",
+            "interval_seconds": 300.0
+        },
+        "SHFsrf_Avg": {
+            "standard_name": "SHFsrf_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Min": {
+            "standard_name": "Tair_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Max": {
+            "standard_name": "Tair_1_Max",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Min": {
+            "standard_name": "RH_1_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Max": {
+            "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
+            "interval_seconds": 300.0
+        },
+        "WG_Max": {
+            "standard_name": "WG_1_Max",
+            "interval_seconds": 300.0
+        },
+        "WS_Max": {
+            "standard_name": "WS_1_Max",
+            "interval_seconds": 300.0
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "Trnet_Avg": {
+            "standard_name": "Trnet_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Avg": {
+            "standard_name": "DutyCycle_Avg",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_LiBattV": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_StName": {
+            "standard_name": "LGR_StName",
+            "interval_seconds": null
+        },
+        "LGR_PakBus": {
+            "standard_name": "LGR_PakBus",
+            "interval_seconds": null
+        },
+        "ST_ID": {
+            "standard_name": "ST_ID",
+            "interval_seconds": null
+        },
+        "SITE_ELEV": {
+            "standard_name": "SITE_ELEV",
+            "interval_seconds": null
+        },
+        "SITE_BD": {
+            "standard_name": "SITE_BD",
+            "interval_seconds": null
+        },
+        "Rnet_SN": {
+            "standard_name": "Rnet_1_SN",
+            "interval_seconds": null
+        },
+        "SWin_sens": {
+            "standard_name": "SWin_1_sens",
+            "interval_seconds": null
+        },
+        "SWout_sens": {
+            "standard_name": "SWout_1_sens",
+            "interval_seconds": null
+        },
+        "LWin_sens": {
+            "standard_name": "LWin_1_sens",
+            "interval_seconds": null
+        },
+        "LWout_sens": {
+            "standard_name": "LWout_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_depth": {
+            "standard_name": "SHF_depth",
+            "interval_seconds": null
+        },
+        "Tsoil_TCAV_Avg": {
+            "standard_name": "Tsoil_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Min": {
+            "standard_name": "Tsoil_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tsoil_TCAV_Max": {
+            "standard_name": "Tsoil_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": 60.0
+        },
+        "SM1_ori": {
+            "standard_name": "SM1_ori",
+            "interval_seconds": null
+        },
+        "SM2_ori": {
+            "standard_name": "SM2_ori",
+            "interval_seconds": null
+        },
+        "SM1_depth": {
+            "standard_name": "SM1_depthM",
+            "interval_seconds": null
+        },
+        "SM2_depth": {
+            "standard_name": "SM2_depthM",
+            "interval_seconds": null
+        },
+        "SHF_1_SN": {
+            "standard_name": "SHF_1_SN",
+            "interval_seconds": null
+        },
+        "SHF_1_sens": {
+            "standard_name": "SHF_1_sens",
+            "interval_seconds": null
+        },
+        "SHF_2_SN": {
+            "standard_name": "SHF_2_SN",
+            "interval_seconds": null
+        },
+        "SHF_2_sens": {
+            "standard_name": "SHF_2_sens",
+            "interval_seconds": null
+        },
+        "SHF_1_8cm_Avg": {
+            "standard_name": "SHF_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SHF_2_8cm_Avg": {
+            "standard_name": "SHF_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TCair_Avg": {
+            "standard_name": "TCair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SM_2_H4cm_Avg": {
+            "standard_name": "SM_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "SM_1_V15cm_Avg": {
+            "standard_name": "SM_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "TrnetK_Avg": {
+            "standard_name": "Trnet_K_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "HEATER_flag": {
+            "standard_name": "Rnet_1_heater",
+            "interval_seconds": null
+        },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
         }
     },
     "CPU:S151_v13.CR3": {
@@ -11378,6 +11724,14 @@
             "standard_name": "FC_1_Tot300s",
             "interval_seconds": 300.0
         },
+        "TrnetK_Avg": {
+            "standard_name": "Trnet_K_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "HEATER_flag": {
+            "standard_name": "Rnet_1_heater",
+            "interval_seconds": null
+        },
         "WS_1_Avg": {
             "standard_name": "WS_1_Avg",
             "interval_seconds": 300.0
@@ -11401,14 +11755,6 @@
         "WD_1_StdY": {
             "standard_name": "WD_1_StdY",
             "interval_seconds": 300.0
-        },
-        "TrnetK_Avg": {
-            "standard_name": "Trnet_K_1_Avg",
-            "interval_seconds": 300.0
-        },
-        "HEATER_flag": {
-            "standard_name": "Rnet_1_heater",
-            "interval_seconds": null
         },
         "SM_1_V15cm_Avg": {
             "standard_name": "SM_1_Avg",
@@ -17444,6 +17790,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -17511,14 +17865,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
@@ -17710,6 +18056,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -17777,14 +18131,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
@@ -17976,6 +18322,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -18043,14 +18397,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
@@ -18238,6 +18584,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "SWup_Avg": {
             "standard_name": "SWin_1_Avg",
             "interval_seconds": 300.0
@@ -18337,14 +18691,6 @@
         "LWdn_sens": {
             "standard_name": "LWout_1_sens",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "Tsurface_Avg": {
             "standard_name": "Tsrf_1_Avg",
@@ -18516,6 +18862,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -18583,14 +18937,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
@@ -18778,6 +19124,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -18845,14 +19199,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
@@ -19040,6 +19386,14 @@
             "standard_name": "SHF_2_sens",
             "interval_seconds": null
         },
+        "DutyCycle_Min": {
+            "standard_name": "DutyCycle_Min",
+            "interval_seconds": 300.0
+        },
+        "DutyCycle_Max": {
+            "standard_name": "DutyCycle_Max",
+            "interval_seconds": 300.0
+        },
         "TC_air_Avg": {
             "standard_name": "TCair_1_Avg",
             "interval_seconds": 300.0
@@ -19107,14 +19461,6 @@
         "NUM_REC_CRD": {
             "standard_name": "NUM_REC_CRD",
             "interval_seconds": null
-        },
-        "DutyCycle_Min": {
-            "standard_name": "DutyCycle_Min",
-            "interval_seconds": 300.0
-        },
-        "DutyCycle_Max": {
-            "standard_name": "DutyCycle_Max",
-            "interval_seconds": 300.0
         },
         "dnWelling_SW_Avg": {
             "standard_name": "SWin_1_Avg",
