@@ -8,10 +8,10 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0132,hawaii,Olowalu,Olowalu,20.82078,-156.6152,54,active
 0133,hawaii,Honolua,Honolua,21.0012,-156.62267,170,active
 0134,hawaii,Hanaula,Hanaʻula,20.84100,-156.55450,1215,active
-0141,hawaii,Auwahi,Auwahi,20.644222,-156.342056,1177,intermittent
+0141,hawaii,Auwahi,Auwahi,20.644222,-156.342056,1177,active
 0143,hawaii,Nakula,Nākula,nan,nan,nan,intermittent
-0144,hawaii,Kahikinui,Kahikinui,20.633945,-156.273889,713,intermittent
-0145,hawaii,Upper Kahikinui,Upper Kahikinui,20.644215,-156.284703,1034,intermittent
+0144,hawaii,Kahikinui,Kahikinui,20.633945,-156.273889,713,active
+0145,hawaii,Upper Kahikinui,Upper Kahikinui,20.644215,-156.284703,1034,active
 0151,hawaii,Park HQ,Haleakalā Park Headquarters,20.759806,-156.248167,2114,active
 0152,hawaii,Nene Nest,Nēnē Nest,20.738194,-156.245833,2593,active
 0153,hawaii,Summit,Haleakalā Summit,20.710361,-156.25675,2984,active
