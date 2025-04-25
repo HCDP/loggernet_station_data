@@ -9,7 +9,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0133,hawaii,Honolua,Honolua,21.0012,-156.62267,170,active
 0134,hawaii,Hanaula,Hanaʻula,20.84100,-156.55450,1215,active
 0141,hawaii,Auwahi,Auwahi,20.644222,-156.342056,1177,active
-0143,hawaii,Nakula,Nākula,nan,nan,nan,intermittent
+0143,hawaii,Nakula,Nākula,20.674736,-156.233487,1632,active
 0144,hawaii,Kahikinui,Kahikinui,20.633945,-156.273889,713,active
 0145,hawaii,Upper Kahikinui,Upper Kahikinui,20.644215,-156.284703,1034,active
 0151,hawaii,Park HQ,Haleakalā Park Headquarters,20.759806,-156.248167,2114,active
@@ -17,15 +17,15 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0153,hawaii,Summit,Haleakalā Summit,20.710361,-156.25675,2984,active
 0154,hawaii,Waikamoi,Waikamoi,20.773636,-156.222311,1935,active
 0155,hawaii,EMI Base Yard,East Maui Irrigation Company Base Yard,20.890997,-156.212316,210,active
-0160,hawaii,Kuiki,Kuiki,nan,nan,nan,inactive
+0160,hawaii,Kuiki,Kuiki,nan,nan,nan,planned
 0161,hawaii,Pohaku Palaha,Pōhaku Pālaha,20.730574,-156.141316,2460,inactive
-0162,hawaii,Treeline,Treeline,20.734315,-156.123354,2235,inactive
-0164,hawaii,Big Bog,Big Bog,20.726514,-156.092308,1652,inactive
+0162,hawaii,Treeline,Treeline,20.734315,-156.123354,2235,planned
+0164,hawaii,Big Bog,Big Bog,20.726514,-156.092308,1652,planned
 0165,hawaii,Hamoa,Hāmoa,20.719497,-156.002356,106,inactive
 0166,hawaii,Kipahulu VC,Kīpahulu Visitors Center,20.661092,-156.044767,29,active
 0201,hawaii,Nahuku,Nāhuku,19.415215,-155.238394,1202,active
 0202,hawaii,Keaau,Keaʻau,19.6061748,-155.0515231,182,active
-0203,hawaii,Olaa,ʻŌlaʻa,19.478399,-155.214969,1043,inactive
+0203,hawaii,Olaa	ʻŌlaʻa,19.478399,-155.214969,1043,planned
 0204,hawaii,Pahoa,Pāhoa,19.501169,-154.943731,175,active
 0211,hawaii,Kanakaleonui,Kanakaleonui,19.845036,-155.362586,2352,active
 0212,hawaii,Kulaimano,Kulaʻimano,19.834341,-155.122435,260,active
@@ -38,7 +38,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0242,hawaii,Kaiaulu Puuwaawaa,Kaiāulu Puʻuwaʻawaʻa,19.77241,-155.83118,1161,active
 0243,hawaii,Kona Hema,Kona Hema,19.2068247,-155.8109802,1283,active
 0244,hawaii,Kealakekua,Kealakekua,19.505859,-155.762429,1840,active
-0245,hawaii,Kipuka Nui,Kīpuka Nui,19.5087559,-155.8445347,1176,active
+0245,hawaii,Kipuka Nui,Kīpuka Nui,19.5087559,-155.8445347,1176,inactive
 0251,hawaii,Kehena,Kehena Ditch Cabin,20.122834,-155.749329,1158,active
 0252,hawaii,Lalamilo,Lālāmilo,20.019528,-155.677085,802,active
 0253,hawaii,Puuloa,Puʻuloa,20.0621502,-155.7511354,1026,active
@@ -49,7 +49,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0283,hawaii,Laupahoehoe,Laupāhoehoe,19.93217,-155.29129,1152,active
 0286,hawaii,Palamanui,Pālamanui,19.73756,-155.99582,264,active
 0287,hawaii,Mamalahoa,Māmalahoa,19.80258,-155.850629,603,active
-0288,hawaii,Puuwaawaa,Puʻuwaʻawaʻa,19.725393,-155.873917,1654,active
+0288,hawaii,Puuwaawaa,Puʻuwaʻawaʻa,19.725393,-155.873917,1654,inactive
 0411,hawaii,Keopukaloa,Keōpukaloa,21.145283,-156.729459,187,active
 0412,hawaii,Honoulimaloo,Honoulimaloʻo,21.131411,-156.758626,402,active
 0431,hawaii,Anapuka,Anapuka,21.215984,-157.241786,68,active
@@ -67,8 +67,9 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0601,hawaii,Waipa,Waipā,22.202647,-159.518833,5,active
 0602,hawaii,Common Ground,Common Ground,22.197439,-159.42123,112,active
 0603,hawaii,Lower Limahuli,Lower Limahuli,22.219805,-159.575195,31,active
-0604,hawaii,Upper Limahuli,Upper Limahuli,22.18454,-159.582659,994,inactive
-0605,hawaii,Powerline,Powerline Trail,nan,nan,nan,inactive
+0604,hawaii,Upper Limahuli,Upper Limahuli,22.18454,-159.582659,994,planned
+0605,hawaii,Powerline,Powerline Trail,nan,nan,nan,planned
+0611,hawaii,Kealia,Keālia,22.128016,-159.336382,148,active
 0621,hawaii,Lawai NTBG,Lāwaʻi National Tropical Botanical Garden,21.905295,-159.510395,106,active
 0641,hawaii,Hanamaulu,Hanamāʻulu,22.018201,-159.437989,225,active
 1311,american_samoa,Poloa,Poloa,-14.3196,-170.8308,143,nan
