@@ -33,10 +33,10 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0213,hawaii,Piihonua,Piʻihonua,19.7064059,-155.1873737,606,active
 0214,hawaii,Waipunalei,Waipunalei,19.9090639,-155.332875,1654,active
 0215,hawaii,Hakalau,Hakalau,19.786173,-155.314264,nan,planned
+0216,hawaii,Punahoa,Punahoa,19.68865,-155.23145,nan,planned
 0221,hawaii,Kaluamakani,Kaluamakani,19.9153271,-155.5002897,1880,active
 0222,hawaii,Aipalaoa,Aipalaoa,19.8541197,-155.5915919,2039,active
 0223,hawaii,Naohuleelua,Nāʻōhuleʻelua,19.664467,-155.705311,nan,planned
-0226,hawaii,Punahoa,Punahoa,19.68865,-155.23145,nan,planned
 0224,hawaii,Puuheewai,Puʻuheʻewai,19.629045,-155.566923,nan,planned
 0225,hawaii,Alaekila,Alaekila,20.042368,-155.408793,nan,planned
 0231,hawaii,Kaiholena,Kaiholena,19.16877,-155.57035,631,active
