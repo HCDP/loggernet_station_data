@@ -9778,12 +9778,28 @@
             "standard_name": "Tair_1_Max",
             "interval_seconds": 300.0
         },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
         "RH_1_Min": {
             "standard_name": "RH_1_Min",
             "interval_seconds": 300.0
         },
         "RH_1_Max": {
             "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
             "interval_seconds": 300.0
         },
         "Tsoil_1_Min": {
@@ -9984,12 +10000,28 @@
             "standard_name": "Tair_1_Max",
             "interval_seconds": 300.0
         },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
         "RH_1_Min": {
             "standard_name": "RH_1_Min",
             "interval_seconds": 300.0
         },
         "RH_1_Max": {
             "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
             "interval_seconds": 300.0
         },
         "Tsoil_1_Min": {
@@ -20661,6 +20693,362 @@
             "interval_seconds": 600.0
         }
     },
+    "CPU:HI Mesonet_0235_v01p1_CR350.CRB": {
+        "Tair_1_Avg": {
+            "standard_name": "Tair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Avg": {
+            "standard_name": "Tair_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Avg": {
+            "standard_name": "RH_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Avg": {
+            "standard_name": "RH_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_1_Avg": {
+            "standard_name": "VP_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_2_Avg": {
+            "standard_name": "VP_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_1_Avg": {
+            "standard_name": "VPsat_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_2_Avg": {
+            "standard_name": "VPsat_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_1_Avg": {
+            "standard_name": "VPD_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_2_Avg": {
+            "standard_name": "VPD_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "WS_Avg": {
+            "standard_name": "WS_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WSrs_Avg": {
+            "standard_name": "WSrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDuv_Avg": {
+            "standard_name": "WDuv_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
+            "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Min": {
+            "standard_name": "Tair_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Max": {
+            "standard_name": "Tair_1_Max",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Min": {
+            "standard_name": "RH_1_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Max": {
+            "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
+            "interval_seconds": 300.0
+        },
+        "WG_Max": {
+            "standard_name": "WG_1_Max",
+            "interval_seconds": 300.0
+        },
+        "WS_Min": {
+            "standard_name": "WS_1_Min",
+            "interval_seconds": 300.0
+        },
+        "WS_Max": {
+            "standard_name": "WS_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": null
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "CellUsage5min": {
+            "standard_name": "CellUsage5min",
+            "interval_seconds": 300.0
+        },
+        "CellStr": {
+            "standard_name": "CellStr",
+            "interval_seconds": 300.0
+        },
+        "CellQlt": {
+            "standard_name": "CellQlt",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_LiBattV": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Max",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageDay": {
+            "standard_name": "CellUsageDay",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageMonth": {
+            "standard_name": "CellUsageMonth",
+            "interval_seconds": 86400.0
+        }
+    },
+    "CPU:HI Mesonet_0235_v01_CR350.CRB": {
+        "Tair_1_Avg": {
+            "standard_name": "Tair_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Avg": {
+            "standard_name": "Tair_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Avg": {
+            "standard_name": "RH_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Avg": {
+            "standard_name": "RH_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_1_Avg": {
+            "standard_name": "VP_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VP_2_Avg": {
+            "standard_name": "VP_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_1_Avg": {
+            "standard_name": "VPsat_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPsat_2_Avg": {
+            "standard_name": "VPsat_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_1_Avg": {
+            "standard_name": "VPD_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "VPD_2_Avg": {
+            "standard_name": "VPD_2_Avg",
+            "interval_seconds": 300.0
+        },
+        "WS_Avg": {
+            "standard_name": "WS_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WSrs_Avg": {
+            "standard_name": "WSrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDuv_Avg": {
+            "standard_name": "WDuv_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WDrs_Avg": {
+            "standard_name": "WDrs_1_Avg",
+            "interval_seconds": 300.0
+        },
+        "WD_StdY": {
+            "standard_name": "WD_1_StdY",
+            "interval_seconds": 300.0
+        },
+        "WD_StdCS": {
+            "standard_name": "WD_1_StdCS",
+            "interval_seconds": 300.0
+        },
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Min": {
+            "standard_name": "Tair_1_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_1_Max": {
+            "standard_name": "Tair_1_Max",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Min": {
+            "standard_name": "Tair_2_Min",
+            "interval_seconds": 300.0
+        },
+        "Tair_2_Max": {
+            "standard_name": "Tair_2_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Min": {
+            "standard_name": "RH_1_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_1_Max": {
+            "standard_name": "RH_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Min": {
+            "standard_name": "RH_2_Min",
+            "interval_seconds": 300.0
+        },
+        "RH_2_Max": {
+            "standard_name": "RH_2_Max",
+            "interval_seconds": 300.0
+        },
+        "WG_Max": {
+            "standard_name": "WG_1_Max",
+            "interval_seconds": 300.0
+        },
+        "WS_Min": {
+            "standard_name": "WS_1_Min",
+            "interval_seconds": 300.0
+        },
+        "WS_Max": {
+            "standard_name": "WS_1_Max",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": null
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "CellUsage5min": {
+            "standard_name": "CellUsage5min",
+            "interval_seconds": 300.0
+        },
+        "CellStr": {
+            "standard_name": "CellStr",
+            "interval_seconds": 300.0
+        },
+        "CellQlt": {
+            "standard_name": "CellQlt",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "LGR_LiBattV": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Max",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageDay": {
+            "standard_name": "CellUsageDay",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageMonth": {
+            "standard_name": "CellUsageMonth",
+            "interval_seconds": 86400.0
+        }
+    },
     "CPU:HI Mesonet_0145_v02p1.CR300": {
         "Tair_1_Avg": {
             "standard_name": "Tair_1_Avg",
@@ -23373,6 +23761,72 @@
         "Tsoil_1": {
             "standard_name": "Tsoil_1",
             "interval_seconds": 300.0
+        }
+    },
+    "CPU:HI Mesonet_0160_v01.CR300": {
+        "RF_Tot": {
+            "standard_name": "RF_1_Tot300s",
+            "interval_seconds": 300.0
+        },
+        "RFmin": {
+            "standard_name": "RF_1_Tot60s",
+            "interval_seconds": null
+        },
+        "BattVolt": {
+            "standard_name": "BattVolt",
+            "interval_seconds": 300.0
+        },
+        "Tpanel": {
+            "standard_name": "Tpanel",
+            "interval_seconds": 300.0
+        },
+        "RHenc": {
+            "standard_name": "RHenc",
+            "interval_seconds": 300.0
+        },
+        "CellUsage5min": {
+            "standard_name": "CellUsage5min",
+            "interval_seconds": 300.0
+        },
+        "CellStr": {
+            "standard_name": "CellStr",
+            "interval_seconds": 300.0
+        },
+        "CellQlt": {
+            "standard_name": "CellQlt",
+            "interval_seconds": 300.0
+        },
+        "RHenc_Min": {
+            "standard_name": "RHenc_Min",
+            "interval_seconds": 86400.0
+        },
+        "RHenc_Max": {
+            "standard_name": "RHenc_Max",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Min": {
+            "standard_name": "Tpanel_Min",
+            "interval_seconds": 86400.0
+        },
+        "Tpanel_Max": {
+            "standard_name": "Tpanel_Max",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageDay": {
+            "standard_name": "CellUsageDay",
+            "interval_seconds": 86400.0
+        },
+        "CellUsageMonth": {
+            "standard_name": "CellUsageMonth",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Min": {
+            "standard_name": "LGR_LiBattV",
+            "interval_seconds": 86400.0
+        },
+        "BattVolt_Max": {
+            "standard_name": "BattVolt_Min",
+            "interval_seconds": 86400.0
         }
     },
     "CPU:Samoa Mesonet_stream gauge_v04p1.CRB": {
