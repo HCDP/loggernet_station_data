@@ -43,21 +43,21 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0232,hawaii,Kahilipalinui,Kahilipalinui,19.044023,-155.57921,nan,planned
 0233,hawaii,Ka Lae,Ka Lae,18.953,-155.689,nan,planned
 0234,hawaii,Kahuku,Kahuku,19.052519,-155.69205,nan,planned
-0235,hawaii,Manuka,Manuka,19.051949,-155.865644,nan,planned
+0235,hawaii,Manuka,Manukā,19.05934,-155.852,108,active
 0236,hawaii,Kauhuku Mauka,Kauhuku Mauka,19.382805,-155.74623,nan,planned
 0241,hawaii,Keahuolu,Keahuolū,19.668669,-155.957474,537,active
 0242,hawaii,Kaiaulu Puuwaawaa,Kaiāulu Puʻuwaʻawaʻa,19.77241,-155.83118,1161,active
 0243,hawaii,Kona Hema,Kona Hema,19.2068247,-155.8109802,1283,active
 0244,hawaii,Kealakekua,Kealakekua,19.505859,-155.762429,1840,active
 0245,hawaii,Kipuka Nui,Kīpuka Nui,19.5087559,-155.8445347,1176,inactive
-0246,hawaii,Kona Research Station,KonaAg,19.5335322,-155.9263885,nan,planned
+0246,hawaii,Kona Ag,Kona Research Station,19.5335322,-155.9263885,446,active
 0247,hawaii,Kipahoehoe,Kipahoehoe,19.2312376,-155.8681021,nan,planned
 0251,hawaii,Kehena,Kehena Ditch Cabin,20.122834,-155.749329,1158,active
 0252,hawaii,Lalamilo,Lālāmilo,20.019528,-155.677085,802,active
 0253,hawaii,Puuloa,Puʻuloa,20.0621502,-155.7511354,1026,active
 0254,hawaii,Kawaihae,Kawaihae,20.0240444,-155.807983,113,active
 0255,hawaii,Waipoo,Waipoʻo,20.099334,-155.696415,1381,active
-0256,hawaii,Mealani Research Station,Mealani,20.0394972,-155.6083761,nan,planned
+0256,hawaii,Mealani,Mealani Research Station,20.0394972,-155.6083761,879,active
 0257,hawaii,Kapaau,Kapaʻau,20.193492,-155.8062372,nan,planned
 0258,hawaii,Iole,ʻIole,20.240499,-155.78104,nan,planned
 0259,hawaii,Puuoli,Puʻuoli,19.830955,-155.699863,nan,planned
