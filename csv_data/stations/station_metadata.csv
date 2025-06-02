@@ -4,6 +4,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0118,hawaii,Pulehu,Pūlehu,20.79532,-156.35991,427,active
 0119,hawaii,Kula Ag,Kula Agricultural Experiment Station,20.757889,-156.320028,964,active
 0121,hawaii,Lipoa,Līpoa,20.7458333,-156.4305556,88,active
+0122,hawaii,Kaehu,Kaʻehu,20.909167,-156.489444,6,active
 0131,hawaii,Lahaina WTP,Lahaina Water Treatment Plant,20.89072,-156.65493,244,active
 0132,hawaii,Olowalu,Olowalu,20.82078,-156.6152,54,active
 0133,hawaii,Honolua,Honolua,21.0012,-156.62267,170,active
