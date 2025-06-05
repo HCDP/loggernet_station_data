@@ -267,6 +267,7 @@ station_id,standard_name,sensor_number,sensor_height
 0156,Tsoil_3_Avg,2,
 0156,Tsoil_4_Avg,3,
 0156,RF_1_Tot300s,0,1.51
+0160,RF_1_Tot300s,0,1.85
 0161,Tair_1_Avg,0,2.0
 0161,Tair_2_Avg,1,2.0
 0161,RH_1_Avg,0,2.0
