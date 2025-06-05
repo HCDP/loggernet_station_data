@@ -73,8 +73,8 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0412,hawaii,Honoulimaloo,Honoulimaloʻo,21.131411,-156.758626,402,active
 0413,hawaii,Ualapue,ʻUalapuʻe,21.066782,-156.830634,nan,planned
 0414,hawaii,Pepeopae,Pēpēʻōpae ,21.1191,-156.90066,nan,planned
-0421,hawaii,Kualapuu,Kualapuʻu,21.151872,-157.053235,nan,planned
-0422,hawaii,Naiwa,Nāʻiwa,21.128209,-157.082404,nan,planned
+0421,hawaii,Kualapuu,Kualapuʻu,21.151872,-157.053235,259,active
+0422,hawaii,Naiwa,Nāʻiwa,21.128209,-157.082404,68,active
 0431,hawaii,Anapuka,Anapuka,21.215984,-157.241786,68,active
 0501,hawaii,Lyon,Lyon Arboretum,21.333,-157.8025,151,active
 0502,hawaii,Nuuanu Res 1,Nuʻuanu Reservoir Number 1,21.339124,-157.836859,117,active
