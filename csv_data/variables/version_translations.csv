@@ -452,8 +452,8 @@ WDuv_1_Avg,WindDir_uv,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsu
 Tsoil_1_Avg,Tsoil_Avg,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 SHF_1_Avg,SoilHeatFlux_Avg(1),900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 SHF_2_Avg,SoilHeatFlux_Avg(2),900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
-SM_1_Avg,SoilMoisture_Avg(1),900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
-SMadjT_1_Avg,SoilMoisture_T_Avg(1),900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
+SM_1_Avg,SoilMoisture_Avg,900,CWI_Nakula_Climate_v11_wFOG.CR3
+SMadjT_1_Avg,SoilMoisture_T_Avg,900,CWI_Nakula_Climate_v11_wFOG.CR3
 RF_1_Tot900s,Rainfall_Tot,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 FOGtip_1_Tot900s,FOG_Tot,900,CWI_Nakula_Climate_v11_wFOG.CR3
 LWS_mv_1_Avg,LW_Avg(1),900,CWI_Nakula_Climate_v11_wFOG.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
@@ -480,11 +480,13 @@ LGR_LiBattV,LithiumBattery,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02
 BattVolt,BattVolt_Avg,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 BattVolt_Min,BattVolt_Min,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 BattVolt_Max,BattVolt_Max,900,CWI_Nakula_Climate_v11_wFOG.CR3;LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
+SM_1_Avg,SoilMoisture_Avg(1),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 SM_2_Avg,SoilMoisture_Avg(2),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 SM_3_Avg,SoilMoisture_Avg(3),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 PA_1_Avg,SM_us_Avg(1),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 PA_2_Avg,SM_us_Avg(2),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 PA_3_Avg,SM_us_Avg(3),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
+SMadjT_1_Avg,SoilMoisture_T_Avg(1),900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3;S151_v09_CWI.CR3;S151_v08_CWI.CR3
 Nscans,Nscans,900,LyonArboretum_v02_wTsurf_Arable_BV_dis.CR3;LyonArboretum_20211011.CR3
 SM_3_Avg,SoilMoisture_Avg(3),300,LyonArboretum_20211011.CR3
 PA_1_Avg,SM_us_Avg(1),300,LyonArboretum_20211011.CR3
