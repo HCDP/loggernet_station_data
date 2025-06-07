@@ -25158,11 +25158,11 @@
             "standard_name": "SHF_2_Avg",
             "interval_seconds": 900.0
         },
-        "SoilMoisture_Avg(1)": {
+        "SoilMoisture_Avg": {
             "standard_name": "SM_1_Avg",
             "interval_seconds": 900.0
         },
-        "SoilMoisture_T_Avg(1)": {
+        "SoilMoisture_T_Avg": {
             "standard_name": "SMadjT_1_Avg",
             "interval_seconds": 900.0
         },
@@ -25384,14 +25384,6 @@
             "standard_name": "SHF_2_Avg",
             "interval_seconds": 900.0
         },
-        "SoilMoisture_Avg(1)": {
-            "standard_name": "SM_1_Avg",
-            "interval_seconds": 900.0
-        },
-        "SoilMoisture_T_Avg(1)": {
-            "standard_name": "SMadjT_1_Avg",
-            "interval_seconds": 900.0
-        },
         "Rainfall_Tot": {
             "standard_name": "RF_1_Tot900s",
             "interval_seconds": 900.0
@@ -25472,6 +25464,10 @@
             "standard_name": "BattVolt_Max",
             "interval_seconds": 900.0
         },
+        "SoilMoisture_Avg(1)": {
+            "standard_name": "SM_1_Avg",
+            "interval_seconds": 900.0
+        },
         "SoilMoisture_Avg(2)": {
             "standard_name": "SM_2_Avg",
             "interval_seconds": 900.0
@@ -25490,6 +25486,10 @@
         },
         "SM_us_Avg(3)": {
             "standard_name": "PA_3_Avg",
+            "interval_seconds": 900.0
+        },
+        "SoilMoisture_T_Avg(1)": {
+            "standard_name": "SMadjT_1_Avg",
             "interval_seconds": 900.0
         },
         "Nscans": {
