@@ -1,271 +1,266 @@
-standard_name,units,units_short,display_name
-SWin_1_Avg,W/m²,W/m²,Incoming shortwave radiation
-SWout_1_Avg,W/m²,W/m²,Outgoing shortwave radiation
-LWin_1_Avg,W/m²,W/m²,Incoming longwave radiation
-LWinUC_1_Avg,W/m^2,W/m^2,"Incoming longwave radiation, uncorrected"
-LWout_1_Avg,W/m²,W/m²,Outgoing longwave radiation
-LWoutUC_1_Avg,W/m^2,W/m^2,"Outgoing longwave radiation, uncorrected"
-SWnet_1_Avg,W/m²,W/m²,Net shortwave radiation
-LWnet_1_Avg,W/m²,W/m²,Net longwave radiation
-Rin_1_Avg,W/m²,W/m²,Net incoming radiation
-Rout_1_Avg,W/m²,W/m²,Net outgoing radiation
-Rnet_1_Avg,W/m²,W/m²,Net radiation
-RnetUC_1_Avg,W/m^2,W/m^2,"Net radiation, uncorrected"
-Albedo_1_Avg,,,Albedo
-Tsrf_1_Avg,°C,°C,Surface temperature
-Tsky_1_Avg,°C,°C,Sky temperature
-PAR_1_Avg,umol/s/m^2,umol/s/m^2,Photosynthetically active radiation
-PAR_2_Avg,umol/s/m²,umol/s/m²,"Photosynthetically active radiation, sensor 2"
-PARdiff_1_Avg,umol/s/m²,umol/s/m²,Diffused photosynthetically active radiation
-Tair_1_Avg,°C,°C,"Air temperature, sensor 1"
-Tair_2_Avg,°C,°C,"Air temperature, sensor 2"
-RH_1_Avg,%,%,"Relative humidity, sensor 1"
-RH_2_Avg,%,%,"Relative humidity, sensor 2"
-VP_1_Avg,kPa,kPa,"Vapor pressure, sensor 1"
-VP_2_Avg,kPa,kPa,"Vapor pressure, sensor 2"
-VPD_1_Avg,kPa,kPa,"Vapor pressure deficit, sensor 1"
-VPD_2_Avg,kPa,kPa,"Vapor pressure deficit, sensor 2"
-VPsat_1_Avg,kPa,kPa,"Saturation vapor pressure, sensor 1"
-VPsat_2_Avg,kPa,kPa,"Saturation vapor pressure, sensor 2"
-WS_1_Avg,m/s,m/s,Mean wind speed
-WSrs_1_Avg,m/s,m/s,Resultant vector wind speed
-WDuv_1_Avg,degrees,degrees,Unit vector average wind direction
-WDrs_1_Avg,degrees,degrees,Resultant vector wind direction
-WD_1_StdCS,degrees,degrees,Wind direction standard deviation
-WD_1_StdY,degrees,degrees,"Wind direction standard deviation, wind speed weighted"
-P_1,kPa,kPa,Pressure
-Psl_1,kPa,kPa,Sea level pressure
-SM_1_Avg,m³/m³,m³/m³,"Soil moisture, sensor 1"
-SM_2_Avg,m³/m³,m³/m³,"Soil moisture, sensor 2"
-SM_3_Avg,m³/m³,m³/m³,"Soil moisture, sensor 3"
-SMadjT_1_Avg,m^3/m^3,m^3/m^3,"Temperature-adjusted soil moisture, sensor 1"
-SMadjT_2_Avg,m^3/m^3,m^3/m^3,"Temperature-adjusted soil moisture, sensor 2"
-SHF_1_Avg,W/m²,W/m²,"Soil heat flux, sensor 1"
-SHF_2_Avg,W/m²,W/m²,"Soil heat flux, sensor 2"
-SHFbg_1_Avg,,,"Soil heat flux, sensor average"
-SHS_1_Avg,,,Soil heat storage
-SHFsrf_1_Avg,W/m²,W/m²,Surface soil heat flux
-Tsoil_1_Avg,°C,°C,"Soil temperature, sensor 1"
-Tsoil_2,°C,°C,"Soil temperature, sensor 2"
-Tsoil_3,°C,°C,"Soil temperature, sensor 3"
-Tsoil_4,°C,°C,"Soil temperature, sensor 4"
-RF_1_Tot300s,,,Rainfall
-RF_2_Tot300s,,,"Rainfall, sensor 2"
-RFint_1_Max,mm/hour,mm/hour,Maximum rain intensity
-RFint_2_Max,mm/hour,mm/hour,"Maximum rain intensity, sensor 2"
-WTlvl_1_Avg,m,m,Water table level
-FC_1_Tot,ml,ml,Fog collection
-FOGtip_1_Tot,counts,counts,Fog gauge tips
-FM_1,,,Fuel moisture
-FT_1,,,Fuel temperature
-TCair_1_Avg,Deg C,Deg C,Thermocouple temperature
-Trnet_1_Avg,Deg C,Deg C,NR01 sensor body temperature
-Tair_1_Min,°C,°C,"Minimum air temperature, sensor 1"
-Tair_1_Max,°C,°C,"Maximum air temperature, sensor 1"
-Tair_2_Min,°C,°C,"Minimum air temperature, sensor 2"
-Tair_2_Max,°C,°C,"Maximum air temperature, sensor 2"
-RH_1_Min,%,%,"Minimum relative humidity, sensor 1"
-RH_1_Max,%,%,"Maximum relative humidity, sensor 1"
-RH_2_Min,%,%,"Minimum relative humidity, sensor 1"
-RH_2_Max,%,%,"Maximum relative humidity, sensor 1"
-TCair_1_Min,Deg C,Deg C,Minimum thermocouple temperature
-TCair_1_Max,Deg C,Deg C,Maximum thermocouple temperature
-Tsoil_1_Min,°C,°C,Minimum soil temperature
-Tsoil_1_Max,°C,°C,Maximum soil temperature
-WG_1_Max,m/s,m/s,Maximum wind gust
-WG_1_TMx,,,Time of maximum wind gust
-WS_1_Max,m/s,m/s,Maximum wind speed
-WS_1_TMx,,,Time of maximum wind speed
-BattVolt,VDC,VDC,Battery voltage
-BattVolt_Min,Volts,Volts,Minimum battery voltage
-BattVolt_Max,Volts,Volts,Maximum battery voltage
-LGR_LiBattV,,,Logger lithium battery voltage
-Tpanel,°C,°C,Logger panel temperature
-RHenc,%,%,Enclosure relative humidity
-DutyCycle_Avg,,,NR01 heater duty cycle
-DutyCycle_Min,%,%,Minimum NR01 heater duty cycle
-DutyCycle_Max,%,%,Maximum NR01 heater duty cycle
-Trnet_Avg,°C,°C,NR01 sensor body temperature
-Trnet_K_Avg,K,K,"NR01 sensor body temperature, Kelvin"
-CellUsage5min,KB,KB,5-minute cellular data usage
-CellStr,dBm,dBm,Cellular signal strength
-CellQlt,,,Cellular signal quality
-TCair_Avg,Deg F,Deg F,Thermocouple temperature
-RGtip_1_Tot,,,Rain gauge tip
-RGtip_2_Tot,,,"Rain gauge tip, sensor 2"
-Nscans,,,Number of scans
-GoodSample,,,Number of good samples
-Fault_Wind,,,Number of falut wind samples
-Fault_Temperature,,,Number of falut temperature samples
-Fault_Dewpoint,,,Number of falut dew point samples
-Fault_Humidity,,,Number of falut humidity samples
-Fault_Pressure,,,Number of falut pressure samples
-Fault_Compass,,,Number of falut compass
-Fault_NAN,,,Number of NAN
-Fault_Undefined,,,Number of undefined falut
-GoodSample_Wind,,,Percentage of good wind samples
-RFmin_1,mm,mm,Minutely rainfall
-RFmin_2,mm,mm,"Minutely rainfall, sensor 2"
-RGtipmin_1,count,count,Minutely rain gauge tips
-RGtipmin_2,count,count,"Minutely rain gauge tips, sensor 2"
-Psl_mbar_1,,,Psl_mbar_1
-WDrsUC_2_Avg,,,WDrsUC_2_Avg
-SHF_1_SN,,,SHF_1_SN
-VR_2_Avg,,,VR_2_Avg
-RF_1_Tot600s,,,RF_1_Tot600s
-SM1_depth0,,,SM1_depth0
-Ka_1_Min,,,Ka_1_Min
-CH201_DaySysAh,,,CH201_DaySysAh
-P_mbar_1_Max,,,P_mbar_1_Max
-Rnet_1_heater,,,Rnet_1_heater
-SHF_2_sens,,,SHF_2_sens
-Ka_3_Avg,m³/m³,m³/m³,Ka_3_Avg
-SHF_4_Avg,W/m^2,W/m^2,SHF_4_Avg
-SITE_ELEV,,,SITE_ELEV
-EC_3_Avg,dS/m,dS/m,EC_3_Avg
-SM3_depthM,,,SM3_depthM
-CH201_DayBattAhIn,,,CH201_DayBattAhIn
-EC_1_Min,,,EC_1_Min
-SHF_depth,,,SHF_depth
-LWSmv_2_Avg,,,LWSmv_2_Avg
-SM3_depth0,,,SM3_depth0
-P_mbar_1,,,P_mbar_1
-WDuv_2_Avg,,,WDuv_2_Avg
-RF_2_Tot60s,,,RF_2_Tot60s
-SCAN_INTERVAL,,,SCAN_INTERVAL
-NO_SHF,,,NO_SHF
-WS_2_Avg,,,WS_2_Avg
-SHF_2_SN,,,SHF_2_SN
-Psl_mbar_1_Max,,,Psl_mbar_1_Max
-RF_1_Tot86400s,,,RF_1_Tot86400s
-RoutUC_1_Avg,,,RoutUC_1_Avg
-SWout_1_Max,,,SWout_1_Max
-SITE_MagDec,,,SITE_MagDec
-Tsoil_2_Max,,,Tsoil_2_Max
-RV_2_LiBattV,,,RV_2_LiBattV
-FC_1_Tot300s,,,FC_1_Tot300s
-SysAh,,,SysAh
-Ka_1_Max,,,Ka_1_Max
-ILoad,,,ILoad
-WSrs_2_Avg,,,WSrs_2_Avg
-TSM2_depthM,,,TSM2_depthM
-RF_1_Tot60s,,,RF_1_Tot60s
-RGtip_2_Tot300s,,,RGtip_2_Tot300s
-SWin_1_Max,,,SWin_1_Max
-SM1_depthM,,,SM1_depthM
-SHF_3_SN,,,SHF_3_SN
-NUM_REC_LGR,,,NUM_REC_LGR
-IBatt,,,IBatt
-P_1_Avg,,,P_1_Avg
-SM3_ori,,,SM3_ori
-RV_2_Level,,,RV_2_Level
-VR_1_Avg,,,VR_1_Avg
-RF_1_Tot900s,,,RF_1_Tot900s
-BattAhOut,,,BattAhOut
-Rnet_1_SN,,,Rnet_1_SN
-ChgState,,,ChgState
-LGR_StName,,,LGR_StName
-PA_1_Min,,,PA_1_Min
-EC_1_Max,,,EC_1_Max
-CH201_DayBattAhOut,,,CH201_DayBattAhOut
-DCin_2,,,DCin_2
-SHF_3_sens,,,SHF_3_sens
-WD_2_StdCS,,,WD_2_StdCS
-LWin_1_Max,,,LWin_1_Max
-LGR_PakBus,,,LGR_PakBus
-LWSmv_1_Avg,,,LWSmv_1_Avg
-Tsoil_2_Avg,Deg C,Deg C,Tsoil_2_Avg
-FOGtip_1_Tot900s,,,FOGtip_1_Tot900s
-Good_Sample,,,Good_Sample
-SM2_depth0,,,SM2_depth0
-SHF_4_SN,,,SHF_4_SN
-Rnet_1_Max,,,Rnet_1_Max
-SWnet_1_Min,,,SWnet_1_Min
-Tsoil_1,°C,°C,Tsoil_1
-PA_3_Avg,,,PA_3_Avg
-LWnet_1_Max,,,LWnet_1_Max
-RGtip_1_Tot60s,,,RGtip_1_Tot60s
-PA_2_Avg,,,PA_2_Avg
-BattVolt_TMx,,,BattVolt_TMx
-VR_1_Min,,,VR_1_Min
-RGtip_2_Tot60s,,,RGtip_2_Tot60s
-ChgSource,,,ChgSource
-Tsoil_4_Avg,,,Tsoil_4_Avg
-TSM1_depthM,,,TSM1_depthM
-TSM3_depthM,,,TSM3_depthM
-LWout_1_Min,,,LWout_1_Min
-SWout_1_Min,,,SWout_1_Min
-RHenc_Max,,,RHenc_Max
-RinUC_1_Avg,,,RinUC_1_Avg
-PA_1_Max,,,PA_1_Max
-SM1_ori,,,SM1_ori
-PAR_1_sens,,,PAR_1_sens
-LoadAh,,,LoadAh
-LWout_1_Max,,,LWout_1_Max
-Tpanel_Min,,,Tpanel_Min
-SWin_2_Avg,,,SWin_2_Avg
-LWin_1_sens,,,LWin_1_sens
-Ka_1_Avg,m³/m³,m³/m³,Ka_1_Avg
-UPDATE,,,UPDATE
-SWin_1_sens,,,SWin_1_sens
-FOGtip_1_Tot300s,,,FOGtip_1_Tot300s
-Psl_mbar_1_Min,,,Psl_mbar_1_Min
-SITE_BD,,,SITE_BD
-NO_Tsoil,,,NO_Tsoil
-RHenc_Min,,,RHenc_Min
-Tpanel_Max,,,Tpanel_Max
-EC_2_Avg,dS/m,dS/m,EC_2_Avg
-P_mbar_1_Min,,,P_mbar_1_Min
-PAR_1_Tot86400s,,,PAR_1_Tot86400s
-RV_1_Level,,,RV_1_Level
-SWin_1_Min,,,SWin_1_Min
-RGtip_1_Tot300s,,,RGtip_1_Tot300s
-RF_2_Tot1800s,,,RF_2_Tot1800s
-LWin_1_Min,,,LWin_1_Min
-VBatt,,,VBatt
-TRH_sensor,,,TRH_sensor
-VR_3_Avg,,,VR_3_Avg
-CheckBatt,,,CheckBatt
-CellUsageMonth,,,CellUsageMonth
-Rnet_sensor,,,Rnet_sensor
-NUM_REC_CRD,,,NUM_REC_CRD
-SHF_1_sens,,,SHF_1_sens
-TrnetK_1_Avg,,,TrnetK_1_Avg
-Rnet_1_Min,,,Rnet_1_Min
-ChgTmp,,,ChgTmp
-SHF_3_Avg,W/m^2,W/m^2,SHF_3_Avg
-RF_1_Tot1800s,,,RF_1_Tot1800s
-SM_1_Max,,,SM_1_Max
-FOGtip_1_Tot3600s,,,FOGtip_1_Tot3600s
-Tsoil_3_Avg,,,Tsoil_3_Avg
-ST_ID,,,ST_ID
-LWSmv_3_Avg,,,LWSmv_3_Avg
-CH201_VBatt_Max,,,CH201_VBatt_Max
-Tsoil_2_Min,,,Tsoil_2_Min
-RV_1_LiBattV,,,RV_1_LiBattV
-CH201_DayLoadAh,,,CH201_DayLoadAh
-SWout_1_sens,,,SWout_1_sens
-BattVolt_TMn,,,BattVolt_TMn
-Rnet_2_Avg,,,Rnet_2_Avg
-LWout_1_sens,,,LWout_1_sens
-BattAhIn,,,BattAhIn
-SWnet_1_Max,,,SWnet_1_Max
-Fault_GPS,,,Fault_GPS
-Ka_2_Avg,m³/m³,m³/m³,Ka_2_Avg
-WS_1_mult,,,WS_1_mult
-RF_1_Tot3600s,,,RF_1_Tot3600s
-Rnet_1_sens,,,Rnet_1_sens
-SM_1_Min,,,SM_1_Min
-Qloss,,,Qloss
-EC_1_Avg,dS/m,dS/m,EC_1_Avg
-SHF_4_sens,,,SHF_4_sens
-CH201_VBatt_Min,,,CH201_VBatt_Min
-DCin_1,,,DCin_1
-SM2_ori,,,SM2_ori
-VR_1_Max,,,VR_1_Max
-SWin_1_Tot86400s,,,SWin_1_Tot86400s
-PA_1_Avg,,,PA_1_Avg
-SM2_depthM,,,SM2_depthM
-CellUsageDay,,,CellUsageDay
-LWnet_1_Min,,,LWnet_1_Min
-OUTPUT_INTERVAL,,,OUTPUT_INTERVAL
+standard_name,display_name,units,units_plain,units_expanded
+WS_1_mult,"Sensor calibration coefficient, WS_1",(m/s)/Hz,(m/s)/Hz,(meter per second) per hertz
+RHenc,Enclosure relative humidity,%,%,percent
+RH_1_Avg,"Relative humidity, sensor 1",%,%,percent
+RH_2_Avg,"Relative humidity, sensor 2",%,%,percent
+FM_1_Avg,Fuel moisture,%,%,percent
+RHenc_Max,"Enclosure relative humidity, maximum",%,%,percent
+RHenc_Min,"Enclosure relative humidity, minimum",%,%,percent
+RH_1_Max,"Relative humidity, maximum, sensor 1",%,%,percent
+RH_1_Min,"Relative humidity, minimum, sensor 1",%,%,percent
+RH_2_Max,"Relative humidity, maximum, sensor 2",%,%,percent
+RH_2_Min,"Relative humidity, minimum, sensor 2",%,%,percent
+WD_1_StdCS,"Wind direction standard deviation, wind speed weighted",°,degrees,degrees
+WDuv_1_Avg,"Wind direction, scalar average",°,degrees,degrees
+WD_1_StdY,Wind direction standard deviation,°,degrees,degrees
+WDrs_1_Avg,"Wind direction, vector average",°,degrees,degrees
+SITE_MagDec,Site magnetic declination,°,degrees,degrees
+RV_1_Level,"Sensor level, RainVUE",°,degrees,degrees
+RV_2_Level,"Sensor level, RainVUE, sensor 2",°,degrees,degrees
+WD_2_StdCS,"Wind direction standard deviation, wind speed weighted, sensor 2",°,degrees,degrees
+WDrsUC_2_Avg,"Wind direction, vector average, uncorrected, sensor 2",°,degrees,degrees
+WDuv_2_Avg,"Wind direction, scalar average, sensor 2",°,degrees,degrees
+Tpanel,Logger panel temperature,°C,degree C,degrees Celsius
+Tair_1_Avg,"Air temperature, sensor 1",°C,degree C,degrees Celsius
+Tair_2_Avg,"Air temperature, sensor 2",°C,degree C,degrees Celsius
+Tsoil_1,Soil temperature,°C,degree C,degrees Celsius
+Tsoil_1_Avg,"Soil temperature, average",°C,degree C,degrees Celsius
+Twt_1_Avg,Water temperature,°C,degree C,degrees Celsius
+FT_1_Avg,Fuel temperature,°C,degree C,degrees Celsius
+Tpanel_Max,"Logger panel temperature, maximum",°C,degree C,degrees Celsius
+Tpanel_Min,"Logger panel temperature, minimum",°C,degree C,degrees Celsius
+ChgTmp,Charger temperature,°C,degree C,degrees Celsius
+Trnet_1_Avg,"Sensor body temperature, Rnet",°C,degree C,degrees Celsius
+Tsky_1_Avg,Sky temperature,°C,degree C,degrees Celsius
+Tsrf_1_Avg,Surface temperature,°C,degree C,degrees Celsius
+Tsoil_2,"Soil temperature, sensor 2",°C,degree C,degrees Celsius
+Tsoil_3,"Soil temperature, sensor 3",°C,degree C,degrees Celsius
+Tsoil_4,"Soil temperature, sensor 4",°C,degree C,degrees Celsius
+Tair_1_Max,"Air temperature, maximum, sensor 1",°C,degree C,degrees Celsius
+Tair_1_Min,"Air temperature, minimum, sensor 1",°C,degree C,degrees Celsius
+Tair_2_Max,"Air temperature, maximum, sensor 2",°C,degree C,degrees Celsius
+Tair_2_Min,"Air temperature, minimum, sensor 2",°C,degree C,degrees Celsius
+Tsoil_1_Max,"Soil temperature, maximum",°C,degree C,degrees Celsius
+Tsoil_1_Min,"Soil temperature, minimum",°C,degree C,degrees Celsius
+TCair_1_Avg,"Air temperature, thermocouple",°C,degree C,degrees Celsius
+Tsoil_2_Avg,"Soil temperature, average, sensor 2",°C,degree C,degrees Celsius
+Tsoil_3_Avg,"Soil temperature, average, sensor 3",°C,degree C,degrees Celsius
+Tsoil_4_Avg,"Soil temperature, average, sensor 4",°C,degree C,degrees Celsius
+TCair_1_Max,"Air temperature, thermocouple, maximum",°C,degree C,degrees Celsius
+TCair_1_Min,"Air temperature, thermocouple, minimum",°C,degree C,degrees Celsius
+Tsoil_2_Max,"Soil temperature, maximum, sensor 2",°C,degree C,degrees Celsius
+Tsoil_2_Min,"Soil temperature, minimum, sensor 2",°C,degree C,degrees Celsius
+TCair_F_1_Avg,"Air temperature, thermocouple, in Fahrenheit",°F,degree F,degrees Fahrenheit
+Twt_F_1_Avg,"Water temperature, in Fahrenheit",°F,degree F,degrees Fahrenheit
+IBatt,Battery current,A,A,ampere
+ILoad,Load current,A,A,ampere
+BattAhIn,Battery power input,Ah,Ah,ampere-hour
+BattAhOut,Battery power output,Ah,Ah,ampere-hour
+CH201_DayBattAhIn,"Battery power input, charger, daily total",Ah,Ah,ampere-hour
+CH201_DayBattAhOut,"Battery power output, charger, daily total",Ah,Ah,ampere-hour
+CH201_DayLoadAh,"Load power use, daily total",Ah,Ah,ampere-hour
+CH201_DaySysAh,"Whole system power use, daily total",Ah,Ah,ampere-hour
+LoadAh,Load power use,Ah,Ah,ampere-hour
+Qloss,Battery charge deficit,Ah,Ah,ampere-hour
+SysAh,Whole system power use,Ah,Ah,ampere-hour
+Wlvl_cm_1_Avg,"Water level, in cm",cm,cm,centimeter
+Fault_Compass,"Sensor status, fault compass",count,count,count
+Fault_GPS,"Sensor status, fault GPS",count,count,count
+Fault_NAN,"Sensor status, fault NAN",count,count,count
+Fault_Undefined,"Sensor status, fault undefined",count,count,count
+Good_Sample,"Sensor status, good sample",count,count,count
+Fault_Dewpoint,"Sensor status, fault dew point",count,count,count
+Fault_Humidity,"Sensor status, fault relative humidity",count,count,count
+Fault_Temperature,"Sensor status, fault air temperature",count,count,count
+Fault_Wind,"Sensor status, fault wind",count,count,count
+Fault_Pressure,"Sensor status, fault pressure",count,count,count
+RGtip_1_Tot60s,"Rain gauge tips, 1-minute total",count,count,count
+RGtip_2_Tot60s,"Rain gauge tips, 1-minute total, sensor 2",count,count,count
+Nscans,Number of scans,count,count,count
+NUM_REC_CRD,Number of records stored on card,count,count,count
+NUM_REC_LGR,Number of records stored in logger,count,count,count
+FOGtip_1_Tot300s,"Fog gauge tips, 5-minute total",count,count,count
+FOGtip_1_Tot3600s,"Fog gauge tips, 60-minute total",count,count,count
+FOGtip_1_Tot900s,"Fog gauge tips, 15-minute total",count,count,count
+RGtip_1_Tot300s,"Rain gauge tips, 5-minute total",count,count,count
+RGtip_2_Tot300s,"Rain gauge tips, 5-minute total, sensor 2",count,count,count
+CellQlt,Cellular signal quality,dBm,dBm,decibel-milliwatt
+CellStr,Cellular signal strength,dBm,dBm,decibel-milliwatt
+EC_1_Avg,Soil electrical conductivity,dS/m,dS/m,decisiemens per meter
+EC_2_Avg,"Soil electrical conductivity, sensor 2",dS/m,dS/m,decisiemens per meter
+EC_3_Avg,"Soil electrical conductivity, sensor 3",dS/m,dS/m,decisiemens per meter
+EC_1_Max,"Soil electrical conductivity, maximum",dS/m,dS/m,decisiemens per meter
+EC_1_Min,"Soil electrical conductivity, minimum",dS/m,dS/m,decisiemens per meter
+Trnet_K_1_Avg,"Sensor body temperature, Rnet, in kelvin",K,K,kelvin
+CellUsage5min,"Cellular data usage, 5-minute",KB,KB,kilobyte
+CellUsageDay,"Cellular data usage, daily",KB,KB,kilobyte
+CellUsageMonth,"Cellular data usage, monthly cumulative",KB,KB,kilobyte
+SITE_BD,Site soil bulk density,kg/m³,kg/m^3,kilogram per cubic meter
+P_1,Air pressure,kPa,kPa,kilopascal
+Psl_1,Sea level air pressure,kPa,kPa,kilopascal
+VP_1_Avg,"Vapor pressure, sensor 1",kPa,kPa,kilopascal
+VP_2_Avg,"Vapor pressure, sensor 2",kPa,kPa,kilopascal
+VPD_1_Avg,"Vapor pressure deficit, sensor 1",kPa,kPa,kilopascal
+VPD_2_Avg,"Vapor pressure deficit, sensor 2",kPa,kPa,kilopascal
+VPsat_1_Avg,"Saturation vapor pressure, sensor 1",kPa,kPa,kilopascal
+VPsat_2_Avg,"Saturation vapor pressure, sensor 2",kPa,kPa,kilopascal
+P_1_Avg,"Air pressure, average",kPa,kPa,kilopascal
+Wlvl_1_Avg,Water level,m,m,meter
+WTlvl_1_Avg,Water table level,m,m,meter
+SHF_depth,"Sensor installation depth, SHF",m,m,meter
+SITE_ELEV,Site elevation,m,m,meter
+TSM1_depthM,"Sensor measurement depth, SM_1 for temperature",m,m,meter
+TSM2_depthM,"Sensor measurement depth, SM_2 for temperature",m,m,meter
+TSM3_depthM,"Sensor measurement depth, SM_3 for temperature",m,m,meter
+SM1_depth0,"Sensor probe top depth, SM_1",m,m,meter
+SM1_depthM,"Sensor measurement depth, SM_1",m,m,meter
+SM2_depth0,"Sensor probe top depth, SM_2",m,m,meter
+SM2_depthM,"Sensor measurement depth, SM_2",m,m,meter
+SM3_depth0,"Sensor probe top depth, SM_3",m,m,meter
+SM3_depthM,"Sensor measurement depth, SM_3",m,m,meter
+WS_1_Avg,"Wind speed, scalar average",m/s,m/s,meter per second
+WG_1_Max,"Wind gust, maximum",m/s,m/s,meter per second
+WSrs_1_Avg,"Wind speed, vector average",m/s,m/s,meter per second
+WS_1_Max,"Wind speed, maximum",m/s,m/s,meter per second
+WS_1_Min,"Wind speed, non-zero minimum",m/s,m/s,meter per second
+WS_2_Avg,"Wind speed, scalar average, sensor 2",m/s,m/s,meter per second
+WSrs_2_Avg,"Wind speed, vector average, sensor 2",m/s,m/s,meter per second
+SM_1_Avg,Soil volumetric water content,m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SM_2_Avg,"Soil volumetric water content, sensor 2",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SM_3_Avg,"Soil volumetric water content, sensor 3",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SMadjT_1_Avg,"Soil volumetric water content, temperature adjusted",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SMadjT_2_Avg,"Soil volumetric water content, temperature adjusted, sensor 2",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SM_1_Max,"Soil volumetric water content, maximum",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+SM_1_Min,"Soil volumetric water content, minimum",m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+P_mbar_1,"Air pressure, in millibar",mbar,mbar,millibar
+Psl_mbar_1,"Sea level air pressure, in millibar",mbar,mbar,millibar
+P_mbar_1_Max,"Air pressure, maximum, in millibar",mbar,mbar,millibar
+P_mbar_1_Min,"Air pressure, minimum, in millibar",mbar,mbar,millibar
+Psl_mbar_1_Max,"Sea level air pressure, maximum, in millibar",mbar,mbar,millibar
+Psl_mbar_1_Min,"Sea level air pressure, minimum, in millibar",mbar,mbar,millibar
+OUTPUT_INTERVAL,Data output interval,min,min,minute
+SWin_1_Tot86400s,"Incoming shortwave radiation, daily total",MJ/m²,MJ/m^2,megajoule per square meter
+FC_1_Tot300s,"Fog collection, 5-minute total",ml,ml,milliliter
+RF_1_Tot300s,"Rainfall, 5-minute total",mm,mm,millimeter
+RF_2_Tot300s,"Rainfall, 5-minute total, sensor 2",mm,mm,millimeter
+RF_1_Tot60s,"Rainfall, 1-minute total",mm,mm,millimeter
+RF_2_Tot60s,"Rainfall, 1-minute total, sensor 2",mm,mm,millimeter
+RF_1_Tot1800s,"Rainfall, 30-minute total",mm,mm,millimeter
+RF_1_Tot3600s,"Rainfall, hourly total",mm,mm,millimeter
+RF_1_Tot600s,"Rainfall, 10-minute total",mm,mm,millimeter
+RF_1_Tot86400s,"Rainfall, daily total",mm,mm,millimeter
+RF_1_Tot900s,"Rainfall, 15-minute total",mm,mm,millimeter
+RF_2_Tot1800s,"Rainfall, 30-minute total, sensor 2",mm,mm,millimeter
+RFint_1_Max,Maximum rain intensity,mm/hour,mm/hour,millimeter per hour
+RFint_2_Max,"Maximum rain intensity, sensor 2",mm/hour,mm/hour,millimeter per hour
+PAR_1_Tot86400s,"Photosynthetically active radiation, daily total",mmol/m²,mmol/m^2,millimole per square meter
+LWS_mv_1_Avg,Leaf wetness sensor reading,mV,mV,millivolt
+LWS_mv_2_Avg,"Leaf wetness sensor reading, sensor 2",mV,mV,millivolt
+LWS_mv_3_Avg,"Leaf wetness sensor reading, sensor 3",mV,mV,millivolt
+LGR_PakBus,Logger PakBus address,,,
+LGR_StName,Station name,,,
+ST_ID,Station ID,,,
+UPDATE,Logger constants update status,,,
+CheckBatt,Battery error code,,,
+ChgSource,Battery charging source code,,,
+ChgState,Battery charging state code,,,
+Rnet_1_heater,"Sensor heater switch, Rnet",,,
+NO_SHF,"Number of sensors, SHF",,,
+NO_Tsoil,"Number of sensors, Tsoil",,,
+Rnet_sensor,"Sensor model, Rnet",,,
+TRH_sensor,"Sensor model, TRH",,,
+Rnet_1_SN,"Sensor serial number, Rnet",,,
+SHF_1_SN,"Sensor serial number, SHF_1",,,
+SHF_2_SN,"Sensor serial number, SHF_2",,,
+SHF_3_SN,"Sensor serial number, SHF_3",,,
+SHF_4_SN,"Sensor serial number, SHF_4",,,
+SM1_ori,"Sensor orientation, SM_1",,,
+SM2_ori,"Sensor orientation, SM_2",,,
+SM3_ori,"Sensor orientation, SM_3",,,
+FM_sensor,"Sensor switch, FM",,,
+FT_sensor,"Sensor switch, FT",,,
+Wlvl_psig_1_Avg,"Water level, in psig",psig,psig,pounds per square inch gauge
+SCAN_INTERVAL,Data sampling interval,sec,sec,second
+BattVolt_TMn,"Battery voltage, time of minimum",time,time,timestamp
+BattVolt_TMx,"Battery voltage, time of maximum",time,time,timestamp
+WG_1_TMx,"Wind gust, time of maximum",time,time,timestamp
+WS_1_TMx,"Wind speed, time of maximum",time,time,timestamp
+DutyCycle_Avg,"Sensor heater duty cycle, Rnet",unitless,unitless,ratio
+DutyCycle_Max,"Sensor heater duty cycle, Rnet, maximum",unitless,unitless,ratio
+DutyCycle_Min,"Sensor heater duty cycle, Rnet, minimum",unitless,unitless,ratio
+Albedo_1_Avg,Albedo,unitless,unitless,ratio
+Ka_1_Avg,Soil relative dielectric permittivity,unitless,unitless,ratio
+Ka_2_Avg,"Soil relative dielectric permittivity, sensor 2",unitless,unitless,ratio
+Ka_3_Avg,"Soil relative dielectric permittivity, sensor 3",unitless,unitless,ratio
+VR_1_Avg,Voltage ratio,unitless,unitless,ratio
+VR_2_Avg,"Voltage ratio, sensor 2",unitless,unitless,ratio
+VR_3_Avg,"Voltage ratio, sensor 3",unitless,unitless,ratio
+Ka_1_Max,"Soil relative dielectric permittivity, maximum",unitless,unitless,ratio
+Ka_1_Min,"Soil relative dielectric permittivity, minimum",unitless,unitless,ratio
+VR_1_Max,"Voltage ratio, maximum",unitless,unitless,ratio
+VR_1_Min,"Voltage ratio, minimum",unitless,unitless,ratio
+BattVolt,Battery voltage,V,V,volt
+VBatt,"Battery voltage, charger",V,V,volt
+BattVolt_Max,"Battery voltage, maximum",V,V,volt
+BattVolt_Min,"Battery voltage, minimum",V,V,volt
+LGR_LiBattV,Logger internal battery voltage,V,V,volt
+CH201_VBatt_Max,"Battery voltage, charger, maximum",V,V,volt
+CH201_VBatt_Min,"Battery voltage, charger, minimum",V,V,volt
+DCin_1,"Charger input voltage, source 1",V,V,volt
+DCin_2,"Charger input voltage, source 2",V,V,volt
+RV_1_LiBattV,"Sensor internal battery voltage, RainVUE",V,V,volt
+RV_2_LiBattV,"Sensor internal battery voltage, RainVUE, sensor 2",V,V,volt
+LWin_1_Avg,Incoming longwave radiation,W/m²,W/m^2,watt per square meter
+LWout_1_Avg,Outgoing longwave radiation,W/m²,W/m^2,watt per square meter
+SWin_1_Avg,Incoming shortwave radiation,W/m²,W/m^2,watt per square meter
+SWout_1_Avg,Outgoing shortwave radiation,W/m²,W/m^2,watt per square meter
+SHF_1_Avg,Soil heat flux below ground,W/m²,W/m^2,watt per square meter
+SHFsrf_1_Avg,Soil heat flux at ground surface,W/m²,W/m^2,watt per square meter
+LWnet_1_Avg,Net longwave radiation,W/m²,W/m^2,watt per square meter
+Rin_1_Avg,Total incoming radiation,W/m²,W/m^2,watt per square meter
+Rnet_1_Avg,Net radiation,W/m²,W/m^2,watt per square meter
+Rout_1_Avg,Total outgoing radiation,W/m²,W/m^2,watt per square meter
+SWnet_1_Avg,Net shortwave radiation,W/m²,W/m^2,watt per square meter
+LWinUC_1_Avg,"Incoming longwave radiation, uncorrected",W/m²,W/m^2,watt per square meter
+LWoutUC_1_Avg,"Outgoing longwave radiation, uncorrected",W/m²,W/m^2,watt per square meter
+RinUC_1_Avg,"Total incoming radiation, uncorrected",W/m²,W/m^2,watt per square meter
+Rnet_2_Avg,"Net radiation, sensor 2",W/m²,W/m^2,watt per square meter
+RnetUC_1_Avg,"Net radiation, uncorrected",W/m²,W/m^2,watt per square meter
+RoutUC_1_Avg,"Total outgoing radiation, uncorrected",W/m²,W/m^2,watt per square meter
+SWin_2_Avg,"Incoming shortwave radiation, sensor 2",W/m²,W/m^2,watt per square meter
+SHF_2_Avg,"Soil heat flux below ground, sensor 2",W/m²,W/m^2,watt per square meter
+SHF_3_Avg,"Soil heat flux below ground, sensor 3",W/m²,W/m^2,watt per square meter
+SHF_4_Avg,"Soil heat flux below ground, sensor 4",W/m²,W/m^2,watt per square meter
+LWin_1_Max,"Incoming longwave radiation, maximum",W/m²,W/m^2,watt per square meter
+LWin_1_Min,"Incoming longwave radiation, minimum",W/m²,W/m^2,watt per square meter
+LWnet_1_Max,"Net longwave radiation, maximum",W/m²,W/m^2,watt per square meter
+LWnet_1_Min,"Net longwave radiation, minimum",W/m²,W/m^2,watt per square meter
+LWout_1_Max,"Outgoing longwave radiation, maximum",W/m²,W/m^2,watt per square meter
+LWout_1_Min,"Outgoing longwave radiation, minimum",W/m²,W/m^2,watt per square meter
+Rnet_1_Max,"Net radiation, maximum",W/m²,W/m^2,watt per square meter
+Rnet_1_Min,"Net radiation, minimum",W/m²,W/m^2,watt per square meter
+SWin_1_Max,"Incoming shortwave radiation, maximum",W/m²,W/m^2,watt per square meter
+SWin_1_Min,"Incoming shortwave radiation, minimum",W/m²,W/m^2,watt per square meter
+SWnet_1_Max,"Net shortwave radiation, maximum",W/m²,W/m^2,watt per square meter
+SWnet_1_Min,"Net shortwave radiation, minimum",W/m²,W/m^2,watt per square meter
+SWout_1_Max,"Outgoing shortwave radiation, maximum",W/m²,W/m^2,watt per square meter
+SWout_1_Min,"Outgoing shortwave radiation, minimum",W/m²,W/m^2,watt per square meter
+PAR_1_sens,"Sensor calibration coefficient, PAR_1",μA/(1000 μmol/s/m²),micro-A/(1000 micro-mol/s/m^2),microampere per (1000 micromole per second per square meter)
+PAR_1_Avg,Photosynthetically active radiation,μmol/s/m²,micro-mol/s/m^2,micromole per second per square meter
+PAR_2_Avg,"Photosynthetically active radiation, sensor 2",μmol/s/m²,micro-mol/s/m^2,micromole per second per square meter
+PARdiff_1_Avg,"Photosynthetically active radiation, diffused",μmol/s/m²,micro-mol/s/m^2,micromole per second per square meter
+PA_1_Avg,Period average,μs,micro-s,microsecond
+PA_2_Avg,"Period average, sensor 2",μs,micro-s,microsecond
+PA_3_Avg,"Period average, sensor 3",μs,micro-s,microsecond
+PA_1_Max,"Period average, maximum",μs,micro-s,microsecond
+PA_1_Min,"Period average, minimum",μs,micro-s,microsecond
+LWin_1_sens,"Sensor calibration coefficient, LWin",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+LWout_1_sens,"Sensor calibration coefficient, LWin",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+Rnet_1_sens,"Sensor calibration coefficient, Rnet",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SWin_1_sens,"Sensor calibration coefficient, SWin",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SWout_1_sens,"Sensor calibration coefficient, SWout",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SHF_1_sens,"Sensor calibration coefficient, SHF_1",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SHF_2_sens,"Sensor calibration coefficient, SHF_2",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SHF_3_sens,"Sensor calibration coefficient, SHF_3",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SHF_4_sens,"Sensor calibration coefficient, SHF_4",μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+SWin_1_SN,"Sensor serial number, SWin",,,
