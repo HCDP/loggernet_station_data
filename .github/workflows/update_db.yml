@@ -3,7 +3,7 @@ name: Update mesonet database
 on: 
   push:
     branches:
-    - "db-handler"
+    - "main"
 jobs:
   build:
     runs-on: ubuntu-latest
