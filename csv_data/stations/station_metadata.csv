@@ -66,7 +66,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0281,hawaii,IPIF,Institute of Pacific Islands Forestry,19.69748,-155.0954,112,active
 0282,hawaii,Spencer,Spencer,19.96358,-155.25014,469,active
 0283,hawaii,Laupahoehoe,Laupāhoehoe,19.93217,-155.29129,1152,active
-0286,hawaii,Palamanui,Pālamanui,19.73756,-155.99582,264,inactive
+0286,hawaii,Palamanui,Pālamanui,19.73756,-155.99582,264,active
 0287,hawaii,Mamalahoa,Māmalahoa,19.80258,-155.850629,603,active
 0288,hawaii,Puuwaawaa,Puʻuwaʻawaʻa,19.725393,-155.873917,1654,active
 0411,hawaii,Keopukaloa,Keōpukaloa,21.145283,-156.729459,187,active
