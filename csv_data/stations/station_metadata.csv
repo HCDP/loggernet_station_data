@@ -23,7 +23,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0161,hawaii,Pohaku Palaha,Pōhaku Pālaha,20.730574,-156.141316,2460,active
 0162,hawaii,Treeline,Treeline,20.734315,-156.123354,2235,planned
 0164,hawaii,Big Bog,Big Bog,20.726514,-156.092308,1652,planned
-0165,hawaii,Hamoa,Hāmoa,20.719497,-156.002356,106,inactive
+0165,hawaii,Hamoa,Hāmoa,20.719497,-156.002356,106,active
 0166,hawaii,Kipahulu VC,Kīpahulu Visitors Center,20.661092,-156.044767,29,active
 0201,hawaii,Nahuku,Nāhuku,19.415215,-155.238394,1202,active
 0202,hawaii,Keaau,Keaʻau,19.6061748,-155.0515231,182,active
