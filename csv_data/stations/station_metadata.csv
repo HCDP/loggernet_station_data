@@ -59,8 +59,8 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0254,hawaii,Kawaihae,Kawaihae,20.0240444,-155.807983,113,active
 0255,hawaii,Waipoo,Waipoʻo,20.099334,-155.696415,1381,active
 0256,hawaii,Mealani,Mealani Research Station,20.0394972,-155.6083761,879,active
-0257,hawaii,Kapaau,Kapaʻau,20.193492,-155.8062372,nan,planned
-0258,hawaii,Iole,ʻIole,20.240499,-155.78104,nan,planned
+0257,hawaii,Io,ʻIo,20.19367,-155.80635,538,active
+0258,hawaii,Iole,ʻIole,20.241549,-155.779528,52,active
 0259,hawaii,Puuoli,Puʻuoli,19.830955,-155.699863,nan,planned
 0260,hawaii,Puanui,Puanui,20.145059,-155.889468,nan,planned
 0281,hawaii,IPIF,Institute of Pacific Islands Forestry,19.69748,-155.0954,112,active
