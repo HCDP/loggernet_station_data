@@ -85,6 +85,7 @@ station_id,location,name,full_name,lat,lng,elevation,status
 0520,hawaii,Kaala Repeater,Kaʻala Repeater,nan,nan,nan,inactive
 0521,hawaii,Kaala,Kaʻala,21.50675,-158.144861,1205,active
 0522,hawaii,Palikea,Palikea,21.41584,-158.09930,897,planned
+0532,hawaii,Palolo Mauka,Pālolo Mauka,21.33536,-157.77658,714,active
 0531,hawaii,Kaluanui Ridge,Kaluanui Ridge,21.30491,-157.70302,239,active
 0541,hawaii,Kaaawa Makai,Kaʻaʻawa Makai,21.540352,-157.845041,3,active
 0542,hawaii,Poamoho LZ,Poamoho Connex Landing Zone,21.53106,-157.96613,542,planned
