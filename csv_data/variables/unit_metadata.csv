@@ -1,0 +1,39 @@
+units,units_plain,units_expanded
+unitless,unitless,ratio
+Ah,Ah,ampere-hour
+%,%,percent
+°C,degree C,degrees Celsius
+V,V,volt
+time,time,timestamp
+sec,sec,second
+dBm,dBm,decibel-milliwatt
+KB,KB,kilobyte
+°,degrees,degrees
+dS/m,dS/m,decisiemens per meter
+count,count,count
+ml,ml,milliliter
+A,A,ampere
+km,km,kilometer
+W/m²,W/m^2,watt per square meter
+μV/(W/m²),micro-V/(W/m^2),microvolt per (watt per square meter)
+mV,mV,millivolt
+min,min,minute
+kPa,kPa,kilopascal
+hPa,hPa,hectopascal 
+μs,micro-s,microsecond
+μmol/s/m²,micro-mol/s/m^2,micromole per second per square meter
+μA/(1000 μmol/s/m²),micro-A/(1000 micro-mol/s/m^2),microampere per (1000 micromole per second per square meter)
+mmol/m²,mmol/m^2,millimole per square meter
+mm,mm,millimeter
+mm/hour,mm/hour,millimeter per hour
+m,m,meter
+kg/m³,kg/m^3,kilogram per cubic meter
+m³/m³,m^3/m^3,cubic meter of liquid water per cubic meter of soil
+MJ/m²,MJ/m^2,megajoule per square meter
+°F,degree F,degrees Fahrenheit
+K,K,kelvin
+W,W,watt
+m/s,m/s,meter per second
+cm,cm,centimeter
+psig,psig,pounds per square inch gauge
+(m/s)/Hz,(m/s)/Hz,(meter per second) per hertz
