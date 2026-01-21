@@ -5,11 +5,9 @@ import pathlib
 from sys import stderr
 
 def validate_header(header, table, cur):
-    cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = %s;")
+    cur.execute(f"SELECT column_name FROM information_schema.columns WHERE table_name = %s ORDER BY ordinal_position;", (table,))
     res = cur.fetchall()
-    table_header = []
-    for row in res:
-        table_header.append(row[0], [table])
+    table_header = [row[0] for row in res]
     return header == table_header
         
 
@@ -56,11 +54,12 @@ def load_rows(table, row_len, rows, cur):
     #replace empty strings with null
     values = ",".join(cur.mogrify(param_str, [None if value == '' else value for value in row]).decode('utf-8') for row in rows)
     if len(values) > 0:
+        print(f"inserting {len(values)} rows into {table}")
         cur.execute(f"TRUNCATE TABLE {table_name};")
         cur.execute(f"INSERT INTO {table} VALUES {values};")
             
             
-table_name_whitelist = ["sensor_positions", "station_metadata", "synoptic_exclude", "synoptic_translations", "variable_metadata", "version_translations"]
+table_name_whitelist = ["sensor_positions", "station_metadata", "synoptic_exclude", "synoptic_translations", "variable_metadata", "variable_metadata_2", "unit_metadata", "version_translations"]
 
 with psycopg2.connect(
     host = environ["DB_HOST"], 
@@ -79,9 +78,6 @@ with psycopg2.connect(
                 table_name = fdata.stem
                 #validate table name and ensure this is a csv file
                 if fdata.suffix == ".csv" and table_name in table_name_whitelist:
-                    # Execute a test query
-                    cur.execute(f"TRUNCATE TABLE {table_name};")
-                    conn.commit()
                     if table_name == "version_translations":
                         load_versions(file, table_name, cur)
                     else:
