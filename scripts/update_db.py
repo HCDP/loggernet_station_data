@@ -59,7 +59,7 @@ def load_rows(table, row_len, rows, cur):
         cur.execute(f"INSERT INTO {table} VALUES {values};")
             
             
-table_name_whitelist = ["sensor_positions", "station_metadata", "synoptic_exclude", "synoptic_translations", "variable_metadata", "variable_metadata_2", "unit_metadata", "version_translations"]
+table_name_whitelist = ["sensor_positions", "station_metadata", "synoptic_exclude", "synoptic_translations", "variable_metadata", "unit_metadata", "version_translations"]
 
 with psycopg2.connect(
     host = environ["DB_HOST"], 
