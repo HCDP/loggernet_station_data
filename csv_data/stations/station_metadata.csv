@@ -102,13 +102,13 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0632,hawaii,Kitano Reservoir,Kitano Reservoir,22.01968,-159.67723,546,,,,planned
 0641,hawaii,Hanamaulu,Hanamāʻulu,22.018201,-159.437989,225,0.3,1054.11,060HI,active
 0642,hawaii,Powerline Trail,Powerline Trail,22.113562,-159.438786,651,,,,planned
-1311,hawaii,Poloa,Poloa,-14.319626,-170.830723,143,,,001AS,active,
-1312,hawaii,Aasu,Aʻasu,-14.309799,-170.771518,358,,,002AS,active,
-1313,hawaii,Vaipito,Vaipito,-14.282866,-170.710529,92,,,003AS,active,
-1316,hawaii,Afono,Āfono,-14.267356,-170.650634,84,,,004AS,active,
-1318,hawaii,ASCC,American Samoa Community College,-14.319497,-170.740764,46,,,,active,
-1319,hawaii,Aunuu,Aunuʻu,-14.285161,-170.553535,34,,,005AS,active,
-1410,hawaii,Fagalii,Fagaliʻi,,,,,,,active,
-1411,hawaii,Nuuuli,Nuʻuuli ,,,,,,,active,
-1417,hawaii,AfonoSG,Āfono stream gauge,,,,,,,active,
-1419,hawaii,Tula,Tula,,,,,,,active,
+1311,hawaii,Poloa,Poloa,-14.319626,-170.830723,143,,,001AS,active
+1312,hawaii,Aasu,Aʻasu,-14.309799,-170.771518,358,,,002AS,active
+1313,hawaii,Vaipito,Vaipito,-14.282866,-170.710529,92,,,003AS,active
+1316,hawaii,Afono,Āfono,-14.267356,-170.650634,84,,,004AS,active
+1318,hawaii,ASCC,American Samoa Community College,-14.319497,-170.740764,46,,,,active
+1319,hawaii,Aunuu,Aunuʻu,-14.285161,-170.553535,34,,,005AS,active
+1410,hawaii,Fagalii,Fagaliʻi,,,,,,,active
+1411,hawaii,Nuuuli,Nuʻuuli ,,,,,,,active
+1417,hawaii,AfonoSG,Āfono stream gauge,,,,,,,active
+1419,hawaii,Tula,Tula,,,,,,,active
