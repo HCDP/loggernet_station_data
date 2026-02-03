@@ -99,10 +99,8 @@ Nscans,Number of scans,count
 NUM_REC_CRD,Number of records stored on card,count
 NUM_REC_LGR,Number of records stored in logger,count
 OUTPUT_INTERVAL,Data output interval,min
-P_1,Air pressure,kPa
-P_1_Avg,"Air pressure, average",kPa
-P_hPa_1,"Air pressure, in hectopascal",hPa
-P_hPa_1_Avg,"Air pressure, average, in hectopascal",hPa
+P_1_Avg,"Air pressure",kPa
+P_hPa_1_Avg,"Air pressure, in hectopascal",hPa
 P_hPa_1_Max,"Air pressure, maximum, in hectopascal ",hPa
 P_hPa_1_Min,"Air pressure, minimum, in hectopascal ",hPa
 PA_1_Avg,Period average,μs
@@ -115,8 +113,8 @@ PAR_1_sens,"Sensor calibration coefficient, PAR_1",μA/(1000 μmol/s/m²)
 PAR_1_Tot86400s,"Photosynthetically active radiation, daily total",mmol/m²
 PAR_2_Avg,"Photosynthetically active radiation, sensor 2",μmol/s/m²
 PARdiff_1_Avg,"Photosynthetically active radiation, diffused",μmol/s/m²
-Psl_1,Sea level air pressure,kPa
-Psl_hPa_1,"Sea level air pressure, in hectopascal",hPa
+Psl_1_Avg,Sea level air pressure,kPa
+Psl_hPa_1_Avg,"Sea level air pressure, in hectopascal",hPa
 Psl_hPa_1_Max,"Sea level air pressure, maximum, in hectopascal",hPa
 Psl_hPa_1_Min,"Sea level air pressure, minimum, in hectopascal",hPa
 Qloss,Battery charge deficit,Ah
@@ -233,18 +231,14 @@ Tsky_1_Avg,Sky temperature,°C
 TSM1_depthM,"Sensor measurement depth, SM_1 for temperature",m
 TSM2_depthM,"Sensor measurement depth, SM_2 for temperature",m
 TSM3_depthM,"Sensor measurement depth, SM_3 for temperature",m
-Tsoil_1,Soil temperature,°C
-Tsoil_1_Avg,"Soil temperature, average",°C
+Tsoil_1_Avg,"Soil temperature",°C
 Tsoil_1_Max,"Soil temperature, maximum",°C
 Tsoil_1_Min,"Soil temperature, minimum",°C
-Tsoil_2,"Soil temperature, sensor 2",°C
-Tsoil_2_Avg,"Soil temperature, average, sensor 2",°C
+Tsoil_2_Avg,"Soil temperature, sensor 2",°C
 Tsoil_2_Max,"Soil temperature, maximum, sensor 2",°C
 Tsoil_2_Min,"Soil temperature, minimum, sensor 2",°C
-Tsoil_3,"Soil temperature, sensor 3",°C
-Tsoil_3_Avg,"Soil temperature, average, sensor 3",°C
-Tsoil_4,"Soil temperature, sensor 4",°C
-Tsoil_4_Avg,"Soil temperature, average, sensor 4",°C
+Tsoil_3_Avg,"Soil temperature, sensor 3",°C
+Tsoil_4_Avg,"Soil temperature, sensor 4",°C
 Tsrf_1_Avg,Surface temperature,°C
 Twt_1_Avg,Water temperature,°C
 Twt_F_1_Avg,"Water temperature, in Fahrenheit",°F
