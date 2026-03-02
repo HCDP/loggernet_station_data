@@ -102,13 +102,13 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status,date
 0632,hawaii,Kitano Reservoir,Kitano Reservoir,22.01968,-159.67723,546,,,,planned,
 0641,hawaii,Hanamaulu,Hanamāʻulu,22.018201,-159.437989,225,0.3,1054.11,060HI,active,2024-12-03
 0642,hawaii,Powerline Trail,Powerline Trail,22.113562,-159.438786,651,,,,planned,
-1311,american_samoa,Poloa,Poloa,-14.319626,-170.830723,143,,,001AS,active,2024-02-10
-1312,american_samoa,Aasu,Aʻasu,-14.309799,-170.771518,358,,,002AS,active,2025-02-18
-1313,american_samoa,Vaipito,Vaipito,-14.282866,-170.710529,92,,,003AS,active,2024-02-17
-1316,american_samoa,Afono,Āfono,-14.267356,-170.650634,84,,,004AS,active,2024-02-23
-1318,american_samoa,ASCC,American Samoa Community College,-14.319497,-170.740764,46,,,,active,2024-01-01
-1319,american_samoa,Aunuu,Aunuʻu,-14.285161,-170.553535,34,,,005AS,active,2024-04-01
-1410,american_samoa,Fagalii,Fagaliʻi,,,,,,,active,2024-01-01
-1411,american_samoa,Nuuuli,Nuʻuuli ,,,,,,,active,2024-01-01
-1417,american_samoa,AfonoSG,Āfono stream gauge,,,,,,,active,2024-01-01
-1419,american_samoa,Tula,Tula,,,,,,,active,2024-01-01
+1311,american_samoa,Poloa,Poloa,-14.319626,-170.830723,143,,,001AS,active,2019-06-17
+1312,american_samoa,Aasu,Aʻasu,-14.309799,-170.771518,358,,,002AS,active,2017-04-05
+1313,american_samoa,Vaipito,Vaipito,-14.282866,-170.710529,92,,,003AS,active,2019-06-11
+1316,american_samoa,Afono,Āfono,-14.267356,-170.650634,84,,,004AS,active,2017-08-24
+1318,american_samoa,ASCC,American Samoa Community College,-14.319497,-170.740764,46,,,,active,2025-11-04
+1319,american_samoa,Aunuu,Aunuʻu,-14.285161,-170.553535,34,,,005AS,active,2022-08-11
+1410,american_samoa,Fagalii,Fagaliʻi,,,,,,,active,2024-02-12
+1411,american_samoa,Nuuuli,Nuʻuuli ,,,,,,,active,2024-02-14
+1417,american_samoa,AfonoSG,Āfono stream gauge,,,,,,,active,2024-02-08
+1419,american_samoa,Tula,Tula,,,,,,,active,2024-02-08
