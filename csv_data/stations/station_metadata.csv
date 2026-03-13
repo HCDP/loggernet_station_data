@@ -50,7 +50,7 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0243,hawaii,Kona Hema,Kona Hema,19.2068247,-155.8109802,1283,0,23.1,035HI,active
 0244,hawaii,Kealakekua,Kealakekua,19.505859,-155.762429,1840,0,77.11,050HI,active
 0245,hawaii,Kipuka Nui,Kīpuka Nui,19.5087559,-155.8445347,1176,0.2,77.12,051HI,inactive
-0246,hawaii,Kona Ag,Kona Research Station,19.5335322,-155.9263885,446,0.1,73.35,067HI,active
+0246,hawaii,Kona Ag,Kona Research Station,19.5335322,-155.9263885,446,0.1,73.35,068HI,active
 0247,hawaii,Kipahoehoe,Kipahoehoe,19.2312376,-155.8681021,,,,,planned
 0248,hawaii,Kauhuku Mauka,Kauhuku Mauka,19.382805,-155.74623,,,,,planned
 0251,hawaii,Kehena,Kehena Ditch Cabin,20.122834,-155.749329,1158,0.6,181.3,025HI,active
