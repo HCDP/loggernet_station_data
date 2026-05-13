@@ -108,7 +108,7 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 1316,american_samoa,Afono,Āfono,-14.267356,-170.650634,84,,,004AS,active
 1318,american_samoa,ASCC,American Samoa Community College,-14.319497,-170.740764,46,,,,active
 1319,american_samoa,Aunuu,Aunuʻu,-14.285161,-170.553535,34,,,005AS,active
-1410,american_samoa,Fagalii,Fagaliʻi,,,,,,,active
-1411,american_samoa,Nuuuli,Nuʻuuli ,,,,,,,active
-1417,american_samoa,AfonoSG,Āfono stream gauge,,,,,,,active
-1419,american_samoa,Tula,Tula,,,,,,,active
+1410,american_samoa,Fagalii,Fagaliʻi,-14.308687,-170.821643,68,,,,active
+1411,american_samoa,Nuuuli,Nuʻuuli ,-14.306,-170.7105,19,,,,active
+1417,american_samoa,AfonoSG,Āfono stream gauge,-14.26264,-170.6517,14,,,,active
+1419,american_samoa,Tula,Tula,-14.253399,-170.570965,34,,,,active
