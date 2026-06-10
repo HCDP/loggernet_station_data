@@ -86,7 +86,8 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0521,hawaii,Kaala,Kaʻala,21.50675,-158.144861,1205,3,844.5,026HI,active
 0522,hawaii,Palikea,Palikea,21.41584,-158.09930,897,,,,planned
 0531,hawaii,Kaluanui Ridge,Kaluanui Ridge,21.30491,-157.70302,239,0.05,724.23,061HI,active
-0532,hawaii,Palolo Mauka,Pālolo Mauka,21.33536,-157.77658,714,1,718.11,,active
+0532,hawaii,Palolo Mauka,Pālolo Mauka,21.33536,-157.77658,714,1,718.11,077HI,active
+0533,hawaii,Maunawili Palawai,Maunawili Pālāwai,21.36827,-157.76272,14,0,790.12,,active
 0541,hawaii,Kaaawa Makai,Kaʻaʻawa Makai,21.540352,-157.845041,3,0.1,886.12,049HI,active
 0542,hawaii,Poamoho LZ,Poamoho Connex Landing Zone,21.53106,-157.96613,542,,,,planned
 0543,hawaii,Poamoho Summit,Poamoho Summit,21.52732,-157.92056,788,,,,planned
