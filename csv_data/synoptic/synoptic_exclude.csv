@@ -1,3 +1,5 @@
 station_id,standard_name
 0521,Tair_1_Avg
 0521,RH_1_Avg
+0283,Tair_1_Avg
+0283,RH_1_Avg
