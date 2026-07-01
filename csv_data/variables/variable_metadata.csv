@@ -103,11 +103,11 @@ P_1_Avg,"Air pressure",kPa
 P_hPa_1_Avg,"Air pressure, in hectopascal",hPa
 P_hPa_1_Max,"Air pressure, maximum, in hectopascal ",hPa
 P_hPa_1_Min,"Air pressure, minimum, in hectopascal ",hPa
-PA_1_Avg,Period average,μs
-PA_1_Max,"Period average, maximum",μs
-PA_1_Min,"Period average, minimum",μs
-PA_2_Avg,"Period average, sensor 2",μs
-PA_3_Avg,"Period average, sensor 3",μs
+SMus_1_Avg,Period average,μs
+SMus_1_Max,"Period average, maximum",μs
+SMus_1_Min,"Period average, minimum",μs
+SMus_2_Avg,"Period average, sensor 2",μs
+SMus_3_Avg,"Period average, sensor 3",μs
 PAR_1_Avg,Photosynthetically active radiation,μmol/s/m²
 PAR_1_sens,"Sensor calibration coefficient, PAR_1",μA/(1000 μmol/s/m²)
 PAR_1_Tot86400s,"Photosynthetically active radiation, daily total",mmol/m²
@@ -251,11 +251,11 @@ VPD_1_Avg,"Vapor pressure deficit, sensor 1",kPa
 VPD_2_Avg,"Vapor pressure deficit, sensor 2",kPa
 VPsat_1_Avg,"Saturation vapor pressure, sensor 1",kPa
 VPsat_2_Avg,"Saturation vapor pressure, sensor 2",kPa
-VR_1_Avg,Voltage ratio,unitless
-VR_1_Max,"Voltage ratio, maximum",unitless
-VR_1_Min,"Voltage ratio, minimum",unitless
-VR_2_Avg,"Voltage ratio, sensor 2",unitless
-VR_3_Avg,"Voltage ratio, sensor 3",unitless
+ECvr_1_Avg,Voltage ratio,unitless
+ECvr_1_Max,"Voltage ratio, maximum",unitless
+ECvr_1_Min,"Voltage ratio, minimum",unitless
+ECvr_2_Avg,"Voltage ratio, sensor 2",unitless
+ECvr_3_Avg,"Voltage ratio, sensor 3",unitless
 WBatt,Battery charge power,W
 WD_1_StdCS,"Wind direction standard deviation, wind speed weighted",°
 WD_1_StdY,Wind direction standard deviation,°
