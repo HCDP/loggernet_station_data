@@ -69,6 +69,8 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0286,hawaii,Palamanui,Pālamanui,19.73756,-155.99582,264,1.3,69.25,008HI,active
 0287,hawaii,Mamalahoa,Māmalahoa,19.80258,-155.850629,603,1.3,93.13,009HI,active
 0288,hawaii,Puuwaawaa,Puʻuwaʻawaʻa,19.725393,-155.873917,1654,21,70.7,010HI,active
+0301,hawaii,Awehi,‘Āwehi,20.797162,-156.85488,753,0,688.1,079HI,active
+0302,hawaii,Maunalei Mauka,Maunalei Mauka,20.849,-156.90258,539,0.1,698.1,080HI,active
 0411,hawaii,Keopukaloa,Keōpukaloa,21.145283,-156.729459,187,0.2,598.1,030HI,active
 0412,hawaii,Honoulimaloo,Honoulimaloʻo,21.131411,-156.758626,402,2,598.2,031HI,active
 0413,hawaii,Ualapue,ʻUalapuʻe,21.066782,-156.830634,,,,,planned
