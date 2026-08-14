@@ -95,7 +95,7 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0543,hawaii,Poamoho Summit,Poamoho Summit,21.52732,-157.92056,788,,,,planned
 0544,hawaii,Waiawa,Waiawa,21.46897,-157.88992,645,,,,planned
 0551,hawaii,Kalahee Ridge,Kalaheʻe Ridge,21.63252,-158.04065,197,0,892.3,056HI,active
-0552,hawaii,Laie,Lāʻie,21.64573,-157.93069,7,,903.5,079HI,active
+0552,hawaii,Laie,Lāʻie,21.64573,-157.93069,7,,903.5,,active
 0601,hawaii,Waipa,Waipā,22.202647,-159.518833,5,0.1,1117.11,014HI,active
 0602,hawaii,Common Ground,Common Ground,22.197439,-159.42123,112,0.1,1132.11,015HI,active
 0603,hawaii,Lower Limahuli,Lower Limahuli,22.219805,-159.575195,31,0.3,1116.2,024HI,active
