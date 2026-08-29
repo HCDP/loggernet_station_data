@@ -19,6 +19,7 @@ station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
 0154,hawaii,Waikamoi,Waikamoi,20.773636,-156.222311,1935,1,341.7,020HI,active
 0155,hawaii,EMI Base Yard,East Maui Irrigation Company Base Yard,20.890997,-156.212316,210,0.05,446.2,048HI,active
 0156,hawaii,West Kuiaha,West Kuiaha Road,20.90433,-156.306715,242,0.05,486.8,066HI,active
+0157,hawaii,Hoolawa,Hoʻolawa,20.906941,-156.243774,177,0,441.2,,active
 0160,hawaii,Kuiki,Kuiki,20.712186,-156.134742,2299,1.5,279.1,070HI,active
 0161,hawaii,Pohaku Palaha,Pōhaku Pālaha,20.730574,-156.141316,2460,0.5,279,043HI,active
 0162,hawaii,Treeline,Treeline,20.734315,-156.123354,2235,,,,planned
