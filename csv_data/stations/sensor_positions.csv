@@ -733,6 +733,16 @@ station_id,standard_name,sensor_number,sensor_height
 0156,RF_1_Tot300s,0,1.51
 0156,RFint_1_Max,0,1.51
 0156,SWin_1_Avg,0,1.4
+0157,Tair_1_Avg,0,1.75
+0157,RH_1_Avg,0,1.75
+0157,VP_1_Avg,0,1.75
+0157,VPsat_1_Avg,0,1.75
+0157,VPD_1_Avg,0,1.75
+0157,SM_1_Avg,0,-0.08
+0157,Tsoil_1,0,-0.08
+0157,RF_1_Tot300s,0,1.09
+0157,RFint_1_Max,0,1.09
+0157,WTlvl_1_Avg,0,unknown
 0160,RF_1_Tot300s,0,1.85
 0160,RFint_1_Max,0,1.85
 0161,SWin_1_Avg,0,2.42
